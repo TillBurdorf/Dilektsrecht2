@@ -281,16 +281,16 @@
   set page(numbering: "I")
 
   // Eidesstattliche Erklaerung
-  import "assets/declaration_of_originality.typ": declarationOfOriginalityWith
-  declarationOfOriginalityWith(
-    title_long: title_long,
-    is_digital: is_digital,
-    author_reversed: [#lastname, #firstname],
-    signature_place: signature_place,
-    lang: lang,
-    type: thesis_type,
-  )
-  pagebreak()
+//  import "assets/declaration_of_originality.typ": declarationOfOriginalityWith
+//  declarationOfOriginalityWith(
+//    title_long: title_long,
+//    is_digital: is_digital,
+//    author_reversed: [#lastname, #firstname],
+//    signature_place: signature_place,
+//    lang: lang,
+//    type: thesis_type,
+//  )
+//  pagebreak()
 
   // Sperrvermerk
   if confidential_clause {
