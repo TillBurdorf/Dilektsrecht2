@@ -38,23 +38,7 @@
 
   // appendices: usage: ("Title", [content] || include("appendix.typ"))
   // change to `appendices: none` to remove appendix
-  appendices: (
-    // ("Appendix Titel 1", include("appendix.typ")), // appendix from file
-    (
-      "Titel 1",
-      [
-        == This is some more source code
-        #lorem(10)
-      ],
-    ), // appendix inline
-    (
-      "Titel 2",
-      [
-        == Even more!
-        #lorem(50)
-      ],
-    ),
-  ),
+  appendices: none,
 
   // Path/s to references - either .yaml or .bib files
   // * for `.yaml` files see: [hayagriva](https://github.com/typst/hayagriva)
