@@ -55,6 +55,6 @@
 
 = Introduction
 Das ist eine Aussage hier. @Looschelders2022
-= Erläuterung des Delikstrecht
-Das Deliktsrecht 
+= Erläuterung des Deliktsrecht
+Das Deliktsrecht befasst sich mit der Frage, wer nach einem entstandenen Schaden Schadensersatz zu leisten hat. Dies kann sowohl Personen- als auch Vermögensschäden beinhalten.
 = Conclusion
