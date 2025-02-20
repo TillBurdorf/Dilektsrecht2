@@ -1,1 +1,2 @@
-Das ist mein Github Repository von meinem Rechts Assignment. 
+Dies ist das Github Repository des Rechts Assignment 2.0 (Darstellung der Rechtsgüter i.S.v. § 823 Abs. 1 BGB; Schutzbereiche; Detaillierte Darstellung der Voraussetzungen für einen Anspruch aus § 823 Abs. 1 BGB)
+Es basiert auf Typst und der Typst VT Template. 
