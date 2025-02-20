@@ -3,31 +3,31 @@
 #show: project.with(
   // 'de' for german or 'en' for english.
   // Pull Requests for other languages are welcome! :)
-  lang: "en",
+  lang: "de",
 
   // Shows a line for a signature, if set to `false`,
   is_digital: true,
 
   // Display the confidential clause
-  confidential_clause: true,
+  confidential_clause: false,
 
   ///
   /// Cover Sheet
   ///
   // Full title of your project
-  title_long: "Writing in Typst",
+  title_long: "Deliktsrecht 1",
   // Shortened title, which is displayed in the header on every page
-  title_short: "Writing in Typst",
+  title_short: "Deliktsrecht 1",
   // The type of your project
-  thesis_type: "Projektarbeit 1 (T3_2000)",
+  thesis_type: "Assignment",
   // Other information about you and your project
-  firstname: "John",
-  lastname: "Doe",
+  firstname: "Victor",
+  lastname: "Hacker",
   signature_place: "Karlsruhe",
-  matriculation_number: "0000000",
-  course: "TINF21B2",
-  submission_date: "31. März 2023",
-  processing_period: "01.01.2023 - 31.03.2023",
+  matriculation_number: "7273065",
+  course: "WWI2024SEA",
+  submission_date: "12. März 2025",
+  processing_period: "20.02.2025 - 12.03.2025",
   supervisor_company: "Christian Klein",
   supervisor_university: "Heinrich Braun",
 
