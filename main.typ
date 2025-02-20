@@ -34,17 +34,7 @@
   // Disable the abstract by changing to `abstract: ()`
   // To load the abstract from a file use include("abstract.typ") instead of [...]`
   // If you only want one language, leave the comma at the end -> `("de", "Deutsch", []),` its necessary for syntax of the template
-  abstract: (
-    ("de", "Deutsch", include "abstracts/abstract_german.typ"),
-    (
-      "en",
-      "English",
-      [This is a short abstract to show the formatting and general style of the template
-
-        It is possible to have multiple abstracts in different languages
-      ],
-    ),
-  ),
+  abstract: (),
 
   // appendices: usage: ("Title", [content] || include("appendix.typ"))
   // change to `appendices: none` to remove appendix
@@ -74,10 +64,10 @@
   // The key is used to reference the acronym.
   // The short form is used every time and the long form is used
   // additionally the first time you reference the acronym.
-  acronyms: (
-    (key: "NN", short: "NN", long: "Neural Network"),
-    (key: "SG", short: "SG", long: "Singular"),
-  ),
+//  acronyms: (
+//    (key: "NN", short: "NN", long: "Neural Network"),
+//    (key: "SG", short: "SG", long: "Singular"),
+//  ),
 )
 
 // You can now start writing :)
@@ -240,7 +230,7 @@ If you use the provided `codefigure` function, you can specify a reference name 
 #weakbreak
 
 == Bibliography
-Typst supports references to external sources, such as books, articles, and websites. You can include a `.yaml` or `.bib` file with your references and use the `cite()` function to reference them in your document. Again, you can use the same syntax sugar `@<ref>` to cite.
+Typst supports references to external sources, such as books, articles, and websites. You can include a `.yaml` or `.bib` file with your references and use the `cite()` function to reference them in your document. Again, you can use the same syntax sugar `@<ref>` to cite. This is a test. 
 
 #typst-preview[
   #quote[
@@ -253,22 +243,6 @@ Typst supports references to external sources, such as books, articles, and webs
     _\~ Molly Weasley_
   ]
   ```]
-
-== Acronyms
-Specify acronyms in the project configuration to use them throughout your document. You can use the `@acr` function to reference acronyms and the `@acr:pl` function to reference their plural form.
-
-#typst-preview[
-  #quote[
-    I don't understand @NN or @NN:pl and never will understand.
-    _\~ Me_
-  ]
-][```typ
-  #quote[
-    I don't understand @NN or @NN:pl and never will.
-    _\~ Me_
-  ]
-  ```
-]
 
 On the first usage, the full form of the acronym is displayed, and on subsequent usages, only the acronym is shown.
 
