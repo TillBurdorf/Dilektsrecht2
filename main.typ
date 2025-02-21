@@ -60,10 +60,20 @@ Das Deliktsrecht befasst sich mit der Frage, wer nach einem entstandenen Schaden
 
 Damit der Schädiger jedoch nicht in seiner Handlungsfreiheit eingeschränkt wird und das Gesetz somit nicht in Konflikt mit diesem Grundrecht kommt, haftet der Schädiger nur bei schuldhaften Verhalten. Voraussetzung ist somit der Verstoß des Schädigers gegen eine Rechtsnorm.#footnote[vgl. @Looschelders2022, § 58 Rn. 3]
 
-Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit nicht generell geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 3] Ein expliziter Schutz auf das Vermögen würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen. Daraus folgt, dass ein Schädiger keine Rücksicht auf Vermögensschäden eines anderen nehmen muss.  
+Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit dadurch nicht generell geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 3] Ein allgemeiner Schutz des Vermögens würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen. Daraus folgt, dass ein Schädiger keine Rücksicht auf reine Vermögensschäden eines anderen nehmen muss. 
+
 
 = Die Rechtsgüter
-Die zentralen Lebensgüter werden in diesem Kapitel näher betrachtet, da deren Verletzung, wie beschrieben, eine Voraussetzung (mit Zusatz des absoluten Rechts) auf die Rechtsprechung sind. 
+Durch die beschriebene Rahmenbedingungen folgt, dass eine Rechtsgutsverletzung essentiell ist, um Ansprüche des Geschädigten aus § 823 Abs. 1 zu begründen. In diesem Kapitel wird näher auf diese Rechtsgüter eingegangen, welche im § 823 auch explizit genannt sind. 
 
+== Leben
+Als erstes Rechtsgut ist das Leben genannt. Hiermit ist die Tötung eines anderen Menschen gemeint. Durch den Tod entfällt die Rechtsfähigkeit, wodurch dem Betroffenen selbst keine Rechtsansprüche zustehen. Somit sind lediglich die Ansprüche Dritter (in diesem Fall den Hinterbliebenen) zu beachten.#footnote[vgl. @Looschelders2022, § 60 Rn. 2]
 
-= Conclusion
+== Körper und Gesundheit
+Als weitere Rechtsgüter nennt der Gesetzgeber den Körper und die Gesundheit. Eine Körperverletzung resultiert meistens in einer Gesundheitsverletzung wodurch in diesen Fällen eine Abgrenzung nicht nötig ist, es ist jedoch keine zwingende Folgerung (z.B. Abschneiden der Haare). Auch umgekehrt ist bei einer Gesundheitsverletzung nicht zwingend die Körperverletzung der Auslöser#footnote[vgl. @Looschelders2022, § 60 Rn. 4]
+
+Nicht nur geborene Menschen sind geschützt, es können auch Ansprüche geltend gemacht werden, bei dem ein Kind mit Gesundheitsverletzung geboren wird, wenn dies auf die Rechtsgutsverletzung zurückzuführen ist, selbst dann, wenn das Kind zu dem Zeitpunkt noch nicht gezeugt wurde. 
+
+Zu diesem Rechtsgut zählt zudem auch die psychische Gesundheit. Diese muss jedoch diagnostizierbar sein, ein reines Unbehagen reicht hierfür somit nicht aus. 
+
+= Fazit

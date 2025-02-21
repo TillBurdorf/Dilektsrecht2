@@ -148,7 +148,8 @@
   }
 
   show heading.where(level: 1): it => {
-    colbreak(weak: true)
+    // colbreak(weak: true)
+    v(weak: true, 1.5cm)
     it
   }
 
