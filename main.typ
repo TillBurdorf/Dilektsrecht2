@@ -57,4 +57,13 @@
 Das ist eine Aussage hier. #footnote[vgl. @Looschelders2022, §823 Abs. 1]
 = Erläuterung des Deliktsrecht
 Das Deliktsrecht befasst sich mit der Frage, wer nach einem entstandenen Schaden Schadensersatz zu leisten hat. Dies kann sowohl Personen- als auch Vermögensschäden beinhalten.
+
+Damit der Schädiger jedoch nicht in seiner Handlungsfreiheit eingeschränkt wird und das Gesetz somit nicht in Konflikt mit diesem Grundrecht kommt, haftet der Schädiger nur bei schuldhaften Verhalten. Voraussetzung ist somit der Verstoß des Schädigers gegen eine Rechtsnorm.#footnote[vgl. @Looschelders2022, § 58 Rn. 3]
+
+Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit nicht generell geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 3] Ein expliziter Schutz auf das Vermögen würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen. Daraus folgt, dass ein Schädiger keine Rücksicht auf Vermögensschäden eines anderen nehmen muss.  
+
+= Die Rechtsgüter
+Die zentralen Lebensgüter werden in diesem Kapitel näher betrachtet, da deren Verletzung, wie beschrieben, eine Voraussetzung (mit Zusatz des absoluten Rechts) auf die Rechtsprechung sind. 
+
+
 = Conclusion

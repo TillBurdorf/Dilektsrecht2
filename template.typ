@@ -137,7 +137,7 @@
   // font setup (LaTeX Look: 'New Computer Modern')
   set text(
     font: "New Computer Modern",
-    size: 12pt,
+    size: 11pt,
   )
 
   // header setup
