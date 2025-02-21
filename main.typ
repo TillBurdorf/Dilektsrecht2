@@ -54,7 +54,7 @@
 // You can now start writing :)
 
 = Introduction
-Das ist eine Aussage hier. @Looschelders2022
+Das ist eine Aussage hier. #footnote[vgl. @Looschelders2022, §823 Abs. 1]
 = Erläuterung des Deliktsrecht
 Das Deliktsrecht befasst sich mit der Frage, wer nach einem entstandenen Schaden Schadensersatz zu leisten hat. Dies kann sowohl Personen- als auch Vermögensschäden beinhalten.
 = Conclusion

@@ -423,6 +423,7 @@
   bibliography(
     library_paths,
     title: [#__tpl_message("list_bibliography", lang)],
+    style: "assets/law-cites.csl"
   )
 
   // display appendix
