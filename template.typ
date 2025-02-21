@@ -28,8 +28,12 @@
     "de": "Betreuer der Ausbildungsfirma",
     "en": "Supervisor of the Training Company",
   ),
+  "student_mail": (
+    "de": "Email",
+    "en": "",
+  ),
   "supervisor_university": (
-    "de": "Gutachter der Dualen Hochschule",
+    "de": "Dozent",
     "en": "Reviewer of the Duale Hochschule",
   ),
   "part_of": (
@@ -117,6 +121,7 @@
   submission_date: none,
   processing_period: none,
   supervisor_company: none,
+  student_mail: none,
   supervisor_university: none,
   abstract: [],
   appendices: none,
@@ -271,7 +276,8 @@
         69190 Walldorf, Deutschland
       ],
 
-      [*#__tpl_message("supervisor_company", lang)*], [#supervisor_company],
+/*       [*#__tpl_message("supervisor_company", lang)*], [#supervisor_company], */
+      [*#__tpl_message("student_mail", lang)*], [#student_mail],
       [*#__tpl_message("supervisor_university", lang)*], [#supervisor_university],
     )
   ]
