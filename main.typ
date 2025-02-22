@@ -56,12 +56,12 @@
 
 = Introduction
 Das ist eine Aussage hier. #footnote[vgl. @Looschelders2022, §823 Abs. 1]
-= Einordnung § 823 Abs. 1
+= Einordnung § 823 Abs. 1 <Einordnung>
 Das Deliktsrecht befasst sich mit der Frage, wer nach einem entstandenen Schaden Schadensersatz zu leisten hat. Dies kann sowohl Personen- als auch Vermögensschäden beinhalten. § 823 bildet dabei den Grundpfeiler des Deliktsrecht.#footnote[vgl. @Hau2024, § 823 Einordnung]
 
 Damit der Schädiger jedoch nicht in seiner Handlungsfreiheit durch § 328 Abs. 1 eingeschränkt wird und der Paragraph somit nicht in Konflikt mit diesem Grundrecht kommt, haftet der Schädiger nur bei schuldhaften Verhalten. Voraussetzung ist somit der Verstoß des Schädigers gegen eine Rechtsnorm.#footnote[vgl. @Looschelders2022, § 58 Rn. 3]
 
-Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit dadurch nicht unmittelbar geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 3] Ein allgemeiner Schutz des Vermögens würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen.#footnote[vgl. @Hau2024, § 823 Rn. 3] Daraus folgt, dass ein Schädiger keine Rücksicht auf reine Vermögensschäden eines anderen nehmen muss. Diese und weitere Einschränkungen, bei denen § 328 wird in Kapitel (TBD) näher beschrieben. 
+ Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit dadurch nicht unmittelbar geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 3] Ein allgemeiner Schutz des Vermögens würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen.#footnote[vgl. @Hau2024, § 823 Rn. 3] Daraus folgt, dass ein Schädiger keine Rücksicht auf reine Vermögensschäden eines anderen nehmen muss. Diese und weitere Einschränkungen, bei denen § 328 wird in Kapitel (TBD) näher beschrieben.
 
 
 = Die Rechtsgüter
@@ -75,9 +75,14 @@ Durch den Tod entfällt die Rechtsfähigkeit, wodurch dem Betroffenen selbst kei
 == Körper und Gesundheit
 Als weitere Rechtsgüter nennt der Gesetzgeber den Körper und die Gesundheit. Eine Körperverletzung resultiert meistens in einer Gesundheitsverletzung wodurch in diesen Fällen eine Abgrenzung nicht nötig ist, es ist jedoch keine zwingende Folgerung (z.B. Abschneiden der Haare). Auch umgekehrt ist bei einer Gesundheitsverletzung nicht zwingend die Körperverletzung der Auslöser#footnote[vgl. @Looschelders2022, § 60 Rn. 4]
 
-Wie auch im Abschnitt nur geborene Menschen sind geschützt, es können auch Ansprüche geltend gemacht werden, bei dem ein Kind mit Gesundheitsverletzung geboren wird, wenn dies auf die Rechtsgutsverletzung zurückzuführen ist, selbst dann, wenn das Kind zu dem Zeitpunkt noch nicht gezeugt wurde. 
+Wie auch bei der Tötung (siehe @Leben) sind nicht nur geborene Menschen geschützt. Es können auch Ansprüche geltend gemacht werden, bei dem ein Kind mit Gesundheitsverletzung geboren wird, wenn dies auf die Rechtsgutsverletzung zurückzuführen ist, selbst dann, wenn das Kind zu dem Zeitpunkt noch nicht gezeugt wurde.#footnote[vgl. @Looschelders2022, § 60 Rn. 5] 
 
-Zu diesem Rechtsgut zählt zudem auch die psychische Gesundheit. Diese muss jedoch diagnostizierbar sein, ein reines Unbehagen reicht hierfür somit nicht aus. 
+Auch psychische Schäden werden diesem Rechtsgut untergegliedert. Der Bundesgerichtshof erkennt psychische Gesundheitsschäden im Unterschied zur Vergangenheit bereits an, wenn sie medizinisch nachweisbar sind, ohne zu verlangen, dass sie über typische Belastungen durch Rechtsverletzungen naher Angehöriger hinausgehen.#footnote[vgl. @Hau2024, § 823 Rn. 113a]
+
+= Freiheit
+Auch Freiheit ist ein geschütztes Rechtsgut, wobei sich dies im § 823 Abs. 1 auf die körperliche Bewegungsfreiheit beschränkt. Die allgemeine Handlungsfreiheit ist hierbei nicht mitgemeint, ein Schutz dieser wurde, wie in @Einordnung beschrieben, vom Gesetzgeber nicht miteinbezogen. 
+
+= Eigentum
 
 
 = Fazit
