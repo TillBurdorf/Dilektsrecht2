@@ -92,6 +92,10 @@ Als letztes Rechtsgut sind sonstige Rechte genannt. Eine Beeinträchtigung diese
 
 Unter die absoluten Rechte fallen alle dinglichen Rechte (z.B. Hypotheken, Grund- und Rentenschulden), Immaterialgüterrechte (z.B. Urheber- und Gebrauchsmusterrechte), Mitgliedschaftsrechte (z.B. Geschäftsanteile an einer Kapitalgesellschaft), das allgemeine Persönlichkeitsrecht (z.B. Verletzung der Ehre) und bestimmte Familienrechte (z.B. das Recht der elterlichen Sorge oder das Recht auf eheliche Lebensgemeinschaft).#footnote[vgl. @Brox2021, § 45 I Rn. 9] Genauer auf jedes der absoluten Rechte einzugehen würde den Rahmen von diesem Assignment sprengen, weswegen jeweils nur Beispiele genannt wurden.
 
+= Voraussetzung für Anspruch aus § 823 Abs. 1
+Das BGB beinhaltet im Unterschied zu anderen Rechtstexten (z.B. dem österreichischen) keine Generalklausel, die Ersatzansprüche für den Geschädigten geltend macht durch eine rechtswidrige oder schuldhafte Schadenszufügung des Schädigers. Stattdessen gibt es drei Grundtatbestände in den §§ 328ff., welche durch weitere Sondertatbestände ergänzt werden. Dies soll eine möglichst klare Rechtsprechung ermöglichen und insbesondere die generelle Haftung für reine Vermögensschäden ausschließen sowie die Haftung auf die unmittelbar geschädigte Person begrenzen. Dies bringt auch Probleme mit sich (in weiterem Kapitel erläutern?).
+
+
 
 
 = Fazit
