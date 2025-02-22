@@ -418,7 +418,10 @@
   )
   counter(page).update(1)
 
-  set par(leading: 0.9em)
+  set par(
+    leading: 0.9em,
+    spacing: 1.5em
+  )
 
   body
   [#[] <end>]
