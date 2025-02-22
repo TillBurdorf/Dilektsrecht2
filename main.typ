@@ -79,10 +79,19 @@ Wie auch bei der Tötung (siehe @Leben) sind nicht nur geborene Menschen geschü
 
 Auch psychische Schäden werden diesem Rechtsgut untergegliedert. Der Bundesgerichtshof erkennt psychische Gesundheitsschäden im Unterschied zur Vergangenheit bereits an, wenn sie medizinisch nachweisbar sind, ohne zu verlangen, dass sie über typische Belastungen durch Rechtsverletzungen naher Angehöriger hinausgehen.#footnote[vgl. @Hau2024, § 823 Rn. 113a]
 
-= Freiheit
-Auch Freiheit ist ein geschütztes Rechtsgut, wobei sich dies im § 823 Abs. 1 auf die körperliche Bewegungsfreiheit beschränkt. Die allgemeine Handlungsfreiheit ist hierbei nicht mitgemeint, ein Schutz dieser wurde, wie in @Einordnung beschrieben, vom Gesetzgeber nicht miteinbezogen. 
+== Freiheit
+Auch Freiheit ist ein geschütztes Rechtsgut, wobei sich dies im § 823 Abs. 1 auf die körperliche Bewegungsfreiheit beschränkt. Die allgemeine Handlungsfreiheit ist hierbei nicht mitgemeint, ein Schutz dieser wurde, wie in @Einordnung beschrieben, vom Gesetzgeber nicht miteinbezogen.#footnote[vgl. @Looschelders2022, § 60 Rn. 8] 
 
-= Eigentum
+== Eigentum
+Als weiteres Schutzgut in § 823 Abs. 1 gilt das Eigentum an körperlichen Gegenstände. Der Eigentümer kann dabei frei über sie verfügen und andere von der Nutzung ausschließen, solange er damit nicht gegen das Gesetz oder Rechte Dritter verstößt, so wie es auch in § 903 festgelegt ist. 
+
+Eine Eigentumsverletzung kann vorliegen, wenn der Gegenstand beschädigt oder zerstört wird, das Eigentumsrecht selbst beeinträchtigt wird (z. B. durch rechtswidrige Veräußerung), der Besitz entzogen oder der Gebrauch eingeschränkt wird.
+
+== Sonstige Rechte
+Als letztes Rechtsgut sind sonstige Rechte genannt. Eine Beeinträchtigung dieses Rechtsgutes ist jedoch nicht bei jeder zuvor nicht eingeschlossenen Rechtsverletzung gegeben. Vielmehr ist durch die Aufzählung hinter dem Eigentum davon auszugehen, dass sonstige Rechte ähnlich zum Eigentum ist, also nur absolute Rechte miteinbezieht.#footnote[vgl. @Brox2021, § 45 I Rn. 9] Absolute Rechte (weiter definieren!!).
+
+Unter die absoluten Rechte fallen alle dinglichen Rechte (z.B. Hypotheken, Grund- und Rentenschulden), Immaterialgüterrechte (z.B. Urheber- und Gebrauchsmusterrechte), Mitgliedschaftsrechte (z.B. Geschäftsanteile an einer Kapitalgesellschaft), das allgemeine Persönlichkeitsrecht (z.B. Verletzung der Ehre) und bestimmte Familienrechte (z.B. das Recht der elterlichen Sorge oder das Recht auf eheliche Lebensgemeinschaft).#footnote[vgl. @Brox2021, § 45 I Rn. 9] Genauer auf jedes der absoluten Rechte einzugehen würde den Rahmen von diesem Assignment sprengen, weswegen jeweils nur Beispiele genannt wurden.
+
 
 
 = Fazit
