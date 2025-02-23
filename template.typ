@@ -45,11 +45,11 @@
     "en": "Bachelor of Science (B. Sc.)",
   ),
   "course_of_study": (
-    "de": "des Studienganges Informatik",
+    "de": "des Studienganges Wirtschaftsinformatik",
     "en": "in Computer Science",
   ),
   "university_pos": (
-    "de": "an der Dualen Hochschule Baden-Württemberg Karlsruhe",
+    "de": "an der Dualen Hochschule Baden-Württemberg Mannheim",
     "en": "at the Baden-Wuerttemberg Cooperative State University Karlsruhe",
   ),
   "by": (

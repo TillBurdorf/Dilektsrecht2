@@ -23,7 +23,7 @@
   // Other information about you and your project
   firstname: "Victor",
   lastname: "Hacker",
-  signature_place: "Karlsruhe",
+  signature_place: "Mannheim",
   matriculation_number: "7273065",
   course: "WWI2024SEA",
   submission_date: "12. März 2025",
@@ -54,37 +54,39 @@
 
 // You can now start writing :)
 
-= Introduction
-Das ist eine Aussage hier. #footnote[vgl. @Looschelders2022, §823 Abs. 1]
+= Einführung
+Noch Ausstehend! 
 = Einordnung § 823 Abs. 1 <Einordnung>
 Das Deliktsrecht befasst sich mit der Frage, wer nach einem entstandenen Schaden Schadensersatz zu leisten hat. Dies kann sowohl Personen- als auch Vermögensschäden beinhalten. § 823 bildet dabei den Grundpfeiler des Deliktsrecht.#footnote[vgl. @Hau2024, § 823 Einordnung]
 
-Damit der Schädiger jedoch nicht in seiner Handlungsfreiheit durch § 328 Abs. 1 eingeschränkt wird und der Paragraph somit nicht in Konflikt mit diesem Grundrecht kommt, haftet der Schädiger nur bei schuldhaften Verhalten. Voraussetzung ist somit der Verstoß des Schädigers gegen eine Rechtsnorm.#footnote[vgl. @Looschelders2022, § 58 Rn. 3]
+Damit der Schädiger jedoch nicht in seiner Handlungs- und Entfaltungsfreiheit durch § 328 Abs. 1 eingeschränkt wird und der Paragraph somit nicht in Konflikt mit diesem Grundrecht kommt, haftet der Schädiger nur bei schuldhaften Verhalten. Voraussetzung ist somit der Verstoß des Schädigers gegen eine Rechtsnorm.#footnote[vgl. @Looschelders2022, § 58 Rn. 3]
 
- Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit dadurch nicht unmittelbar geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 3] Ein allgemeiner Schutz des Vermögens würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen.#footnote[vgl. @Hau2024, § 823 Rn. 3] Daraus folgt, dass ein Schädiger keine Rücksicht auf reine Vermögensschäden eines anderen nehmen muss. Diese und weitere Einschränkungen, bei denen § 328 wird in Kapitel (TBD) näher beschrieben.
+Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit nicht unmittelbar geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 5] Ein allgemeiner Schutz des Vermögens würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen.#footnote[vgl. @Hau2024, § 823 Rn. 3] Daraus folgt, dass ein Schädiger keine Rücksicht auf reine Vermögensschäden eines anderen nehmen muss. Diese und weitere Einschränkungen, bei denen § 328 Abs. 1 nicht wirkt, wird in Kapitel (TBD) näher beschrieben.
 
 
 = Die Rechtsgüter <Rechtsgüter>
-Durch die beschriebene Rahmenbedingungen folgt, dass eine Rechtsgutsverletzung essentiell ist, um Ansprüche des Geschädigten aus § 823 Abs. 1 zu begründen. In diesem Kapitel wird näher auf diese Rechtsgüter eingegangen, welche im § 823 auch explizit genannt sind. 
+Durch die beschriebenen Rahmenbedingungen folgt, dass eine Rechtsgutsverletzung essentiell ist, um Ansprüche des Geschädigten aus § 823 Abs. 1 zu begründen. In diesem Kapitel wird näher auf diese Rechtsgüter eingegangen, welche im § 823 Abs. 1 auch explizit genannt sind. 
 //TODO: Rechtsgutsverletzung
+
 
 == Leben <Leben>
 Als erstes Rechtsgut ist das Leben genannt. Hiermit ist die Tötung eines anderen Menschen gemeint. Auch ein Embryo als noch ungeborenes Leben zählt dazu.#footnote[vgl. @Hau2024, § 823 Rn. 3]
 
-Durch den Tod entfällt die Rechtsfähigkeit, wodurch dem Betroffenen selbst keine Ausgleichszahlungen zustehen, die danach auf seine Erben übergehen würden.#footnote[vgl. @Looschelders2022, § 60 Rn. 2] Die Ersatzansprüche beschränken sich dabei dann meist auf angefallene Beerdigungskosten nach § 844.#footnote[vgl. @Hau2024, § 823 Rn. 106]
+Durch den Tod entfällt die Rechtsfähigkeit, wodurch dem Betroffenen selbst keine Ausgleichszahlungen zustehen, die ansonsten auf seine Erben übergehen würden.#footnote[vgl. @Looschelders2022, § 60 Rn. 2] Die Ersatzansprüche beschränken sich dabei dann meist auf angefallene Beerdigungskosten nach § 844.#footnote[vgl. @Hau2024, § 823 Rn. 106]
 
 == Körper und Gesundheit
 Als weitere Rechtsgüter nennt der Gesetzgeber den Körper und die Gesundheit. Eine Körperverletzung resultiert meistens in einer Gesundheitsverletzung wodurch in diesen Fällen eine Abgrenzung nicht nötig ist, es ist jedoch keine zwingende Folgerung (z.B. Abschneiden der Haare). Auch umgekehrt ist bei einer Gesundheitsverletzung nicht zwingend die Körperverletzung der Auslöser#footnote[vgl. @Looschelders2022, § 60 Rn. 4]
 
-Wie auch bei der Tötung (siehe @Leben) sind nicht nur geborene Menschen geschützt. Es können auch Ansprüche geltend gemacht werden, bei dem ein Kind mit Gesundheitsverletzung geboren wird, wenn dies auf die Rechtsgutsverletzung zurückzuführen ist, selbst dann, wenn das Kind zu dem Zeitpunkt noch nicht gezeugt wurde.#footnote[vgl. @Looschelders2022, § 60 Rn. 5] 
+Wie auch bei der Tötung (siehe @Leben) sind nicht nur geborene Menschen geschützt. Es können auch Ansprüche geltend gemacht werden, bei dem ein Kind mit Gesundheitsverletzung geboren wird, wenn dies auf die Rechtsgutsverletzung zurückzuführen ist, selbst dann, wenn das Kind zu dem Zeitpunkt der Gesundheitsverletzung noch nicht gezeugt wurde.#footnote[vgl. @Looschelders2022, § 60 Rn. 5] 
 
-Auch psychische Schäden werden diesem Rechtsgut untergegliedert. Der Bundesgerichtshof erkennt psychische Gesundheitsschäden im Unterschied zur Vergangenheit bereits an, wenn sie medizinisch nachweisbar sind, ohne zu verlangen, dass sie über typische Belastungen durch Rechtsverletzungen naher Angehöriger hinausgehen.#footnote[vgl. @Hau2024, § 823 Rn. 113a]
+Auch psychische Schäden werden diesem Rechtsgut untergegliedert. Der Bundesgerichtshof erkennt psychische Gesundheitsschäden im Unterschied zur Vergangenheit bereits an, wenn sie medizinisch nachweisbar sind, ohne zu verlangen, dass sie über typische Belastungen durch Rechtsverletzungen naher Angehöriger hinausgehen.#footnote[vgl. @Hau2024, § 823 Rn. 113a] 
+// ausführlichere Benennung der typischen Belastungen
 
 == Freiheit
 Auch Freiheit ist ein geschütztes Rechtsgut, wobei sich dies im § 823 Abs. 1 auf die körperliche Bewegungsfreiheit beschränkt. Die allgemeine Handlungsfreiheit ist hierbei nicht mitgemeint, ein Schutz dieser wurde, wie in @Einordnung beschrieben, vom Gesetzgeber nicht miteinbezogen.#footnote[vgl. @Looschelders2022, § 60 Rn. 8] 
 
 == Eigentum
-Als weiteres Schutzgut in § 823 Abs. 1 gilt das Eigentum an körperlichen Gegenstände. Der Eigentümer kann dabei frei über sie verfügen und andere von der Nutzung ausschließen, solange er damit nicht gegen das Gesetz oder Rechte Dritter verstößt, so wie es auch in § 903 festgelegt ist. 
+Als weiteres Schutzgut in § 823 Abs. 1 gilt das Eigentum an körperlichen Gegenständen. Der Eigentümer kann dabei frei über sie verfügen und andere von der Nutzung ausschließen, solange er damit nicht gegen das Gesetz oder Rechte Dritter verstößt, so wie es auch in § 903 festgelegt ist. 
 
 Eine Eigentumsverletzung kann vorliegen, wenn der Gegenstand beschädigt oder zerstört wird, das Eigentumsrecht selbst beeinträchtigt wird (z. B. durch rechtswidrige Veräußerung), der Besitz entzogen oder der Gebrauch eingeschränkt wird.
 
@@ -96,9 +98,9 @@ Absolute Rechte wirken gegen jedermann. Es gibt im Vergleich dazu auch relative 
 Unter die absoluten Rechte fallen alle dinglichen Rechte (z.B. Hypotheken, Grund- und Rentenschulden), Immaterialgüterrechte (z.B. Urheber- und Gebrauchsmusterrechte), Mitgliedschaftsrechte (z.B. Geschäftsanteile an einer Kapitalgesellschaft), das allgemeine Persönlichkeitsrecht (z.B. Verletzung der Ehre) und bestimmte Familienrechte (z.B. das Recht der elterlichen Sorge oder das Recht auf eheliche Lebensgemeinschaft).#footnote[vgl. @Brox2021, § 45 I Rn. 9] Genauer auf jedes der absoluten Rechte einzugehen würde den Rahmen von diesem Assignment sprengen, weswegen jeweils nur Beispiele genannt wurden.
 
 = Voraussetzung für Anspruch aus § 823 Abs. 1
-Eine Rechtswidrigkeit nach § 823 Abs. 1 liegt erst vor, wenn der Schädiger eine der in § 823 Abs. 1 genannten Rechtsgüter verletzt hat (siehe @Rechtsgüter) und daraus ein Schaden entstanden ist. Daraufhin muss ausschließlich geprüft werden, ob ausnahmsweise ein Rechtfertigungsgrund vorliegt.#footnote[vgl. @Looschelders2022, § 58 Rn. 2] 
+Eine Rechtswidrigkeit nach § 823 Abs. 1 liegt erst vor, wenn der Schädiger eine der darin genannten Rechtsgüter verletzt hat (siehe @Rechtsgüter) und daraus ein Schaden entstanden ist. Daraufhin muss nur noch geprüft werden, ob ausnahmsweise ein Rechtfertigungsgrund vorliegt.#footnote[vgl. @Looschelders2022, § 58 Rn. 2] 
 
-Die in den folgenden Kapiteln behandelten Inhalte entsprechen der klassischen Prüfungsreihenfolge des Schadensersatzanspruchs aus § 823 Abs. 1 BGB: Objektiver Tatbestand, Rechtswidrigkeit, Verantwortlichkeit (Verschulden) und Schaden.
+Die in den folgenden Kapiteln behandelten Inhalte entsprechen der klassischen Prüfungsreihenfolge des Schadensersatzanspruchs aus § 823 Abs. 1: Objektiver Tatbestand, Rechtswidrigkeit, Verantwortlichkeit (Verschulden) und Schaden.
 
 == Objektiver Tatbestand
 Für eine Anspruchsberechtigung setzt das Gesetz eine Verletzung voraus, wodurch ein Schaden an den in § 823 Abs. 1 genannten Rechtsgütern (siehe @Rechtsgüter) in zurechenbarer Weise durch den Schädiger entstanden ist.
@@ -106,10 +108,19 @@ Für eine Anspruchsberechtigung setzt das Gesetz eine Verletzung voraus, wodurch
 === Handlung oder Unterlassung
 Ein menschliche Verhalten (Handlung und Unterlassung) unter Bewusstseinskontrolle muss der Grund für eine Rechtsgutsverletzung sein, damit diese für einen Schadensersatzanspruch in Frage kommt. Daraus folgt dementsprechend, dass Bewegungen unter absolutem Gewalteinfluss, der Bewusstlosigkeit oder reine Reflexbewegungen nicht erfasst werden.#footnote[vgl. @Looschelders2022, § 60 Rn. 24] 
 
-Jedoch ist nach § 827 S. 2 BGB auch das Erschaffen des Zustands der Bewusstlosigkeit eine rechtlich relevante Handlung.
+Hinzuzufügen ist jedoch, dass nach § 827 S. 2 auch das Erschaffen des Zustands der Bewusstlosigkeit eine rechtlich relevante Handlung darstellt.
 
-Eine Unterlassung ist nur dann für den Tatbestand relevant, wenn der Schädiger verpflichtet ist, eine (drohende) Rechtsgutsverletzung abzuwenden und ihm das auch möglich ist.[vgl. @Hau2024, § 823 Rn. 100] Dies ist z.B. dann der Fall, wenn der Schädiger in besonderer Weise für den Geschädigten verantwortlich ist, womit eine Garantenstellung gegeben ist. Auch eine Veranlassung oder Beherrschung einer Gefahr ist hierbei relevant. Dabei gelten die in den Verkehrspflichten entwickelten Grundsätze (noch auszuführen).#footnote[vgl. @Looschelders2022, § 60 Rn. 24]
+Eine Unterlassung ist nur dann für den Tatbestand relevant, wenn der Schädiger verpflichtet ist, eine (drohende) Rechtsgutsverletzung abzuwenden und ihm das auch möglich ist.#footnote[vgl. @Hau2024, § 823 Rn. 100] Dies ist z.B. dann der Fall, wenn der Schädiger in besonderer Weise für den Geschädigten verantwortlich ist, womit eine sogenannte Garantenstellung gegeben ist. Auch eine Veranlassung oder Beherrschung einer Gefahr ist hierbei relevant. Dabei gelten die in den Verkehrspflichten entwickelten Grundsätze (noch auszuführen).#footnote[vgl. @Looschelders2022, § 60 Rn. 24]
 
 === Haftungsbegründende Kausalität
+Die haftungsbegründende Kausalität setzt voraus, dass die Rechtsgutsverletzung durch das Verhalten des Schädigers verursacht worden ist und diesem zuzurechnen ist.#footnote[vgl. @Looschelders2022, § 60 Rn. 30] Im folgenden werden beide Wörter separat betrachtet, um daraufhin deren zusammengesetzte Bedeutung zu erläutern.
+
+==== Kausalität
+Nach der Äquivalenztheorie (Faustregel zur Bestimmung der Kausalität im naturwissenschaftlichen Sinne) ist eine Handlung kausal, wenn man sie nicht weglassen kann, ohne dass der konkrete Erfolg entfällt. Ein Unterlassen ist kausal, wenn die unterlassene Handlung bei ihrer (hypothetischen) Ausführung den Erfolg mit an Sicherheit grenzender Wahrscheinlichkeit verhindert hätte.
+
+==== Haftungsbegründend
+
 
 = Fazit
+Noch Ausstehend! 
+Danke fürs Probelesen! :) 
