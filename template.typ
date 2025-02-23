@@ -333,7 +333,7 @@
     #outline(
       title: [#__tpl_message("list_contents", lang)],
       depth: 3,
-      indent: true,
+      indent: auto,
       target: selector(heading).before(<appendix-start>),
     )
   ]
