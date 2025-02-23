@@ -64,8 +64,9 @@ Damit der Schädiger jedoch nicht in seiner Handlungsfreiheit durch § 328 Abs. 
  Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüter, sowie auf das absolute Recht (also das Eigentum). Im Gegensatz dazu wird das Vermögen sowie die allgemeine Handlungsfreiheit dadurch nicht unmittelbar geschützt.#footnote[vgl. @Looschelders2022, § 58 Rn. 3] Ein allgemeiner Schutz des Vermögens würde zu einer unübersichtlichen Ausweitung der Schadensersatzansprüche führen.#footnote[vgl. @Hau2024, § 823 Rn. 3] Daraus folgt, dass ein Schädiger keine Rücksicht auf reine Vermögensschäden eines anderen nehmen muss. Diese und weitere Einschränkungen, bei denen § 328 wird in Kapitel (TBD) näher beschrieben.
 
 
-= Die Rechtsgüter
+= Die Rechtsgüter <Rechtsgüter>
 Durch die beschriebene Rahmenbedingungen folgt, dass eine Rechtsgutsverletzung essentiell ist, um Ansprüche des Geschädigten aus § 823 Abs. 1 zu begründen. In diesem Kapitel wird näher auf diese Rechtsgüter eingegangen, welche im § 823 auch explizit genannt sind. 
+//TODO: Rechtsgutsverletzung
 
 == Leben <Leben>
 Als erstes Rechtsgut ist das Leben genannt. Hiermit ist die Tötung eines anderen Menschen gemeint. Auch ein Embryo als noch ungeborenes Leben zählt dazu.#footnote[vgl. @Hau2024, § 823 Rn. 3]
@@ -88,14 +89,21 @@ Als weiteres Schutzgut in § 823 Abs. 1 gilt das Eigentum an körperlichen Gegen
 Eine Eigentumsverletzung kann vorliegen, wenn der Gegenstand beschädigt oder zerstört wird, das Eigentumsrecht selbst beeinträchtigt wird (z. B. durch rechtswidrige Veräußerung), der Besitz entzogen oder der Gebrauch eingeschränkt wird.
 
 == Sonstige Rechte
-Als letztes Rechtsgut sind sonstige Rechte genannt. Eine Beeinträchtigung dieses Rechtsgutes ist jedoch nicht bei jeder zuvor nicht eingeschlossenen Rechtsverletzung gegeben. Vielmehr ist durch die Aufzählung hinter dem Eigentum davon auszugehen, dass sonstige Rechte ähnlich zum Eigentum ist, also nur absolute Rechte miteinbezieht.#footnote[vgl. @Brox2021, § 45 I Rn. 9] Absolute Rechte (weiter definieren!!).
+Als letztes Rechtsgut sind sonstige Rechte genannt. Eine Beeinträchtigung dieses Rechtsgutes ist jedoch nicht bei jeder zuvor nicht eingeschlossenen Rechtsverletzung gegeben. Vielmehr ist durch die Aufzählung hinter dem Eigentum davon auszugehen, dass sonstige Rechte ähnlich zum Eigentum ist, also nur absolute Rechte miteinbezieht.#footnote[vgl. @Brox2021, § 45 I Rn. 9]
+
+Absolute Rechte wirken gegen jedermann. Es gibt im Vergleich dazu auch relative Rechte, die sich nur gegen bestimmte Personen richten (z.B. Rechte aus Schuldverhältnissen, Kauf- oder Mietvertrag).#footnote[vgl. @Weber2024, Recht 1b]
 
 Unter die absoluten Rechte fallen alle dinglichen Rechte (z.B. Hypotheken, Grund- und Rentenschulden), Immaterialgüterrechte (z.B. Urheber- und Gebrauchsmusterrechte), Mitgliedschaftsrechte (z.B. Geschäftsanteile an einer Kapitalgesellschaft), das allgemeine Persönlichkeitsrecht (z.B. Verletzung der Ehre) und bestimmte Familienrechte (z.B. das Recht der elterlichen Sorge oder das Recht auf eheliche Lebensgemeinschaft).#footnote[vgl. @Brox2021, § 45 I Rn. 9] Genauer auf jedes der absoluten Rechte einzugehen würde den Rahmen von diesem Assignment sprengen, weswegen jeweils nur Beispiele genannt wurden.
 
 = Voraussetzung für Anspruch aus § 823 Abs. 1
-Das BGB beinhaltet im Unterschied zu anderen Rechtstexten (z.B. dem österreichischen) keine Generalklausel, die Ersatzansprüche für den Geschädigten geltend macht durch eine rechtswidrige oder schuldhafte Schadenszufügung des Schädigers. Stattdessen gibt es drei Grundtatbestände in den §§ 328ff., welche durch weitere Sondertatbestände ergänzt werden. Dies soll eine möglichst klare Rechtsprechung ermöglichen und insbesondere die generelle Haftung für reine Vermögensschäden ausschließen sowie die Haftung auf die unmittelbar geschädigte Person begrenzen. Dies bringt auch Probleme mit sich (in weiterem Kapitel erläutern?).
+Eine Rechtswidrigkeit nach § 823 Abs. 1 liegt erst vor, wenn der Schädiger eine der in § 823 Abs. 1 genannten Rechtsgüter verletzt hat (siehe @Rechtsgüter) und daraus ein Schaden entstanden ist. Daraufhin muss ausschließlich geprüft werden, ob ausnahmsweise ein Rechtfertigungsgrund vorliegt.#footnote[vgl. @Looschelders2022, § 58 Rn. 2] 
 
+Die in den folgenden Kapiteln behandelten Inhalte entsprechen der klassischen Prüfungsreihenfolge des Schadensersatzanspruchs aus § 823 Abs. 1 BGB: Objektiver Tatbestand, Rechtswidrigkeit, Verantwortlichkeit (Verschulden) und Schaden.
 
+== Objektiver Tatbestand
+Für eine Anspruchsberechtigung setzt das Gesetz eine Verletzung voraus, wodurch ein Schaden an den in § 823 Abs. 1 genannten Rechtsgütern (siehe @Rechtsgüter) in zurechenbarer Weise durch den Schädiger entstanden ist.
 
+=== Handlung oder Unterlassung
+Ein menschliche Verhalten (Handlung und Unterlassung) unter Bewusstseinskontrolle muss der Grund für eine Rechtsgutsverletzung sein, damit diese für einen Schadensersatzanspruch in Frage kommt. Daraus folgt dementsprechend, dass Bewegungen unter absolutem Gewalteinfluss, der Bewusstlosigkeit oder reine Reflexbewegungen nicht erfasst werden.#footnote[vgl. @Looschelders2022, § 60 Rn. 24] 
 
 = Fazit
