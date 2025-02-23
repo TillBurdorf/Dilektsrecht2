@@ -106,4 +106,10 @@ Für eine Anspruchsberechtigung setzt das Gesetz eine Verletzung voraus, wodurch
 === Handlung oder Unterlassung
 Ein menschliche Verhalten (Handlung und Unterlassung) unter Bewusstseinskontrolle muss der Grund für eine Rechtsgutsverletzung sein, damit diese für einen Schadensersatzanspruch in Frage kommt. Daraus folgt dementsprechend, dass Bewegungen unter absolutem Gewalteinfluss, der Bewusstlosigkeit oder reine Reflexbewegungen nicht erfasst werden.#footnote[vgl. @Looschelders2022, § 60 Rn. 24] 
 
+Jedoch ist nach § 827 S. 2 BGB auch das Erschaffen des Zustands der Bewusstlosigkeit eine rechtlich relevante Handlung.
+
+Eine Unterlassung ist nur dann für den Tatbestand relevant, wenn der Schädiger verpflichtet ist, eine (drohende) Rechtsgutsverletzung abzuwenden und ihm das auch möglich ist.[vgl. @Hau2024, § 823 Rn. 100] Dies ist z.B. dann der Fall, wenn der Schädiger in besonderer Weise für den Geschädigten verantwortlich ist, womit eine Garantenstellung gegeben ist. Auch eine Veranlassung oder Beherrschung einer Gefahr ist hierbei relevant. Dabei gelten die in den Verkehrspflichten entwickelten Grundsätze (noch auszuführen).#footnote[vgl. @Looschelders2022, § 60 Rn. 24]
+
+=== Haftungsbegründende Kausalität
+
 = Fazit
