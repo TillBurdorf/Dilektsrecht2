@@ -66,7 +66,6 @@ Durch das Deliktsrecht wirkt ein besonderer Schutz für die zentralen Lebensgüt
 
 = Die Rechtsgüter <Rechtsgüter>
 Durch die beschriebenen Rahmenbedingungen folgt, dass eine Rechtsgutsverletzung essentiell ist, um Ansprüche des Geschädigten aus § 823 Abs. 1 zu begründen. In diesem Kapitel wird näher auf diese Rechtsgüter eingegangen, welche im § 823 Abs. 1 auch explizit genannt sind. 
-//TODO: Rechtsgutsverletzung
 
 
 == Leben <Leben>
@@ -95,7 +94,7 @@ Als letztes Rechtsgut sind sonstige Rechte genannt. Eine Beeinträchtigung diese
 
 Absolute Rechte wirken gegen jedermann. Es gibt im Vergleich dazu auch relative Rechte, die sich nur gegen bestimmte Personen richten (z.B. Rechte aus Schuldverhältnissen, Kauf- oder Mietvertrag).#footnote[vgl. @Weber2024, Recht 1b]
 
-Unter die absoluten Rechte fallen alle dinglichen Rechte (z.B. Hypotheken, Grund- und Rentenschulden), Immaterialgüterrechte (z.B. Urheber- und Gebrauchsmusterrechte), Mitgliedschaftsrechte (z.B. Geschäftsanteile an einer Kapitalgesellschaft), das allgemeine Persönlichkeitsrecht (z.B. Verletzung der Ehre) und bestimmte Familienrechte (z.B. das Recht der elterlichen Sorge oder das Recht auf eheliche Lebensgemeinschaft).#footnote[vgl. @Brox2021, § 45 I Rn. 9] Genauer auf jedes der absoluten Rechte einzugehen würde den Rahmen von diesem Assignment sprengen, weswegen jeweils nur Beispiele genannt wurden.
+Unter die absoluten Rechte fallen alle dinglichen Rechte (z.B. Hypotheken, Grund- und Rentenschulden), Immaterialgüterrechte (z.B. Urheber- und Gebrauchsmusterrechte), Mitgliedschaftsrechte (z.B. Geschäftsanteile an einer Kapitalgesellschaft), das allgemeine Persönlichkeitsrecht (z.B. Verletzung der Ehre) und bestimmte Familienrechte (z.B. das Recht der elterlichen Sorge oder das Recht auf eheliche Lebensgemeinschaft).#footnote[vgl. @Brox2021, § 45 Rn. 9] Genauer auf jedes der absoluten Rechte einzugehen würde den Rahmen von diesem Assignment sprengen, weswegen jeweils nur Beispiele genannt wurden.
 
 = Voraussetzung für Anspruch aus § 823 Abs. 1
 Eine Rechtswidrigkeit nach § 823 Abs. 1 liegt erst vor, wenn der Schädiger eine der darin genannten Rechtsgüter verletzt hat (siehe @Rechtsgüter) und daraus ein Schaden entstanden ist. Daraufhin muss nur noch geprüft werden, ob ausnahmsweise ein Rechtfertigungsgrund vorliegt.#footnote[vgl. @Looschelders2022, § 58 Rn. 2] 
@@ -116,9 +115,19 @@ Eine Unterlassung ist nur dann für den Tatbestand relevant, wenn der Schädiger
 Die haftungsbegründende Kausalität setzt voraus, dass die Rechtsgutsverletzung durch das Verhalten des Schädigers verursacht worden ist und diesem zuzurechnen ist.#footnote[vgl. @Looschelders2022, § 60 Rn. 30] Im folgenden werden beide Wörter separat betrachtet, um daraufhin deren zusammengesetzte Bedeutung zu erläutern.
 
 ==== Kausalität
-Nach der Äquivalenztheorie (Faustregel zur Bestimmung der Kausalität im naturwissenschaftlichen Sinne) ist eine Handlung kausal, wenn man sie nicht weglassen kann, ohne dass der konkrete Erfolg entfällt. Ein Unterlassen ist kausal, wenn die unterlassene Handlung bei ihrer (hypothetischen) Ausführung den Erfolg mit an Sicherheit grenzender Wahrscheinlichkeit verhindert hätte.
+In der Kausalität soll erst geprüft werden, was die Ursachen für den Erfolg (Eintreten der Rechtsgutsverletzung) waren, ohne diese normativ zu bewerten.#footnote[vgl. @Looschelders2022AT, § 45 Rn. 6]
 
-==== Haftungsbegründend
+Nach der Äquivalenztheorie ist eine Handlung kausal für einen Erfolg, wenn sie nicht weggelassen werden kann, ohne dass der Erfolg entfiele (conditio sine qua non). Diese Theorie stammt aus dem Strafrecht und dient dazu, eine naturwissenschaftlich Kausalität festzustellen, unabhängig von wertenden Zurechnungskriterien.#footnote[vgl. @Brox2021, § 45 Rn. 28] Es handelt sich dabei jedoch um eine "Faustregel", die nicht bei allen Fällen anzuwenden ist.#footnote[vgl. @Looschelders2022AT, § 45 Rn. 8]
+
+Bei Unterlassen ist die Kausalität anders zu prüfen: Hier wird hypothetisch angenommen, dass die unterlassene Handlung ausgeführt worden wäre. Die Kausalität liegt hierbei vor, wenn der Erfolg mit an Sicherheit grenzender Wahrscheinlichkeit verhindert worden wäre.#footnote[vgl. @Looschelders2022, § 45 Rn. 28]
+
+==== Objektive Zurechnung
+Die Äquivalenztheorie ist sehr weitreichend, wodurch auch äußerst unwahrscheinliche Ursachen erfasst werden. Aus diesem Grund wurden weitere Kriterien entwickelt, die diese Äquivalenztheorie begrenzen. Dadurch soll eine unbegrenzte Haftung für entfernte und unwahrscheinliche Ursachen verhindert werden.#footnote[vgl. @Brox2021, § 45 Rn. 29]
+
+Die Zurechnung durch die entfällt durch die Adäquanztheorie, wenn der Erfolg nur unter höchst ungewöhnlichen, unvorhersehbaren Umständen eintritt. Die Adäquanz hat jedoch bei § 823 Abs. 1 keine eigenständige Funktion, da die Vorhersehbarkeit auch auf der Verschuldensebene geprüft wird.
+
+Der Schutzzweck der Norm ist damit das wichtigste Kriterium, das bei § 328 Abs. 1 auch relevant ist. 
+
 
 
 = Fazit
