@@ -126,7 +126,17 @@ Die Äquivalenztheorie ist sehr weitreichend, wodurch auch äußerst unwahrschei
 
 Die Zurechnung durch die entfällt durch die Adäquanztheorie, wenn der Erfolg nur unter höchst ungewöhnlichen, unvorhersehbaren Umständen eintritt. Die Adäquanz hat jedoch bei § 823 Abs. 1 keine eigenständige Funktion, da die Vorhersehbarkeit auch auf der Verschuldensebene geprüft wird.
 
-Der Schutzzweck der Norm ist damit das wichtigste Kriterium, das bei § 328 Abs. 1 auch relevant ist. 
+Der Schutzzweck der Norm ist damit das wichtigste Kriterium, das bei § 328 Abs. 1 auch relevant ist. Die Norm soll keinen generellen Schutz vor schädigenden Ereignissen bieten, sondern nur vor bestimmten Rechtsgutsverletzungen und Schäden. Welche davon erfasst werden, muss durch eine Auslegung der jeweiligen Norm erfolgen. Es muss damit geprüft werden, ob die konkrete Rechtsgutsverletzung genau die Gefahr ausgelöst hat, vor der die verletzte Norm schützen sollte. Bei Unklarheit ist eine Abwägung zwischen dem Schutzbedürfnis des Geschädigten und der Haftungsbegrenzung des Schädigers benötigt.#footnote[vgl. @Looschelders2022AT, § 45 Rn. 19] 
+// sind Normen immer Verkehrspflichten? noch ausführen! --> falscher Schluss? 
+
+Als weitere einschränkende Zurechnungskriterien gelten auch die Verkehrspflichten. Die Verkehrspflichten bezeichnen die Pflicht, das man alle notwendigen und zumutbaren Vorkehrungen treffen muss, um Schäden durch eine Gefahrenquelle zu verhindern, die man selbst unterhält oder geschaffen hat. Es gibt sehr viele Verkehrspflichten, die wegen des schnellen technischen Fortschritts mehr werden. --> Rechtswörterbuch (Aufzählung beispielhafter verkehrspflichten )
+
+// Die Verkehrspflichten können im Zusammenhang mit der objektiven Zurechnung, oder früher, in der Handlung und Unterlassung, geprüft werden. Dies ist jedoch umstritten, wodurch auch eine Prüfung im Rahmen der Rechtswidrigkeit (und nicht beim Tatbestand, welches sowohl die objektive Zurechnung und die Handlung und Unterlassung einschließt) verbreitet ist, teilweise werden sie auch an beiden Stellen verteilt überprüft. In diesem Assignment werden sie an dieser Stelle erwähnt, also der objektiven Zurechnung. Argumentativ können sie bei der objektiven Zurechnung überprüft werden, da sie kein separates Prüfungselement sein sollen, jedoch stattdessen, wie auch andere Zurechnungskriterien, die Äquivalenztheorie auf normativ Verantwortliche begrenzen.  
+
+Verkehrspflichten können ebenso als einschränkende Zurechnungskriterien der objektiven Zurechnung erfolgen.@Medicus2017 Dies ist jedoch in der Rechtswissenschaft umstritten. Es ist verbreitet, dass die Verkehrspflichten beim objektiven Tatbestand, entweder der objektiven Zurechnung (wie hier), oder noch früher, in der Handlung und Unterlassung, geprüft werden.  Im Falle der objektiven Zurechnung würden die Verkehrspflichten als weitere Zurechnungskriterien dienen, die die weitgefasste Äquivalenztheorie auf normative Taten begrenzt. So wird es auch in diesem Assignment angewandt. 
+
+Manche vertreten jedoch die Eingliederung in der Rechtswidrigkeit, was auf die Überlegung basiert, dass die Verkehrspflichten Konkretisierungen des tatbeständigen Verhalten sind.  
+== Rechtswidrigkeit 
 
 
 
