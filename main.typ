@@ -153,7 +153,7 @@ Eine Ausnahme zur Rechtswidrigkeit bilden die Rahmenrechte. Hierbei ist die Rech
 Das liegt daran, dass die Rahmenrechte keine feste und eindeutige Umgrenzung besitzen. Beim Persönlichkeitsrecht muss so je nach Einzelfall eine Interessenabwägung verfolgen. Die Rechtswidrigkeit hängt dabei von der Intensität des Eingriffs, der Stellung des Betroffenen (private Person oder Person des öffentlichen Lebens), sowie der Art und Zielsetzung der Äußerung ab. Trotzdem können auch Rechtfertigungsgründe relevant sein. Bei vorhandenem Rechtfertigungsgrund kann auf die zuvor genannte Abwägung verzichtet werden, da eine Rechtswidrigkeit somit ausgeschlossen ist.#footnote[vgl. @Looschelders2022, § 61 Rn. 5]
 
 == Verantwortlichkeit
-Für einen Schadensersatzanspruch ist zusätzlich zur haftungsbegründenden Kausalität sowie der festgestellten Rechtswidrigkeit ein Verschulden des Schädigers gegeben sein.#footnote[vgl. @Brox2021, § 45 Rn. 58]  
+Für einen Schadensersatzanspruch ist zusätzlich zur haftungsbegründenden Kausalität sowie der festgestellten Rechtswidrigkeit ein Verschulden des Schädigers gegeben sein.#footnote[vgl. @Brox2021, § 45 Rn. 58]
 
 = Fazit
 Noch Ausstehend! 
