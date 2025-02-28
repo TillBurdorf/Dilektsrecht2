@@ -112,7 +112,7 @@ Hinzuzufügen ist jedoch, dass nach § 827 S. 2 auch das Erschaffen des Zustands
 Eine Unterlassung ist nur dann für den Tatbestand relevant, wenn der Schädiger verpflichtet ist, eine (drohende) Rechtsgutsverletzung abzuwenden und ihm das auch möglich ist.#footnote[vgl. @Hau2024, § 823 Rn. 100] Dies ist z.B. dann der Fall, wenn der Schädiger in besonderer Weise für den Geschädigten verantwortlich ist, womit eine sogenannte Garantenstellung gegeben ist. Auch eine Veranlassung oder Beherrschung einer Gefahr ist hierbei relevant. Dabei gelten die in den Verkehrspflichten entwickelten Grundsätze (noch auszuführen).#footnote[vgl. @Looschelders2022, § 60 Rn. 24]
 
 === Haftungsbegründende Kausalität
-Die haftungsbegründende Kausalität setzt voraus, dass die Rechtsgutsverletzung durch das Verhalten des Schädigers verursacht worden ist und diesem zuzurechnen ist.#footnote[vgl. @Looschelders2022, § 60 Rn. 30] Im folgenden werden beide Wörter separat betrachtet, um daraufhin deren zusammengesetzte Bedeutung zu erläutern.
+Die haftungsbegründende Kausalität setzt voraus, dass die Rechtsgutsverletzung durch das Verhalten des Schädigers verursacht worden ist und diesem zuzurechnen ist. Sollte dies der Fall sein, ist die Rechtswidrigkeit indiziert.#footnote[vgl. @Looschelders2022, § 60 Rn. 30] 
 
 ==== Kausalität
 In der Kausalität soll erst geprüft werden, was die Ursachen für den Erfolg (Eintreten der Rechtsgutsverletzung) waren, ohne diese normativ zu bewerten.#footnote[vgl. @Looschelders2022AT, § 45 Rn. 6]
@@ -121,7 +121,7 @@ Nach der Äquivalenztheorie ist eine Handlung kausal für einen Erfolg, wenn sie
 
 Bei Unterlassen ist die Kausalität anders zu prüfen: Hier wird hypothetisch angenommen, dass die unterlassene Handlung ausgeführt worden wäre. Die Kausalität liegt hierbei vor, wenn der Erfolg mit an Sicherheit grenzender Wahrscheinlichkeit verhindert worden wäre.#footnote[vgl. @Looschelders2022, § 45 Rn. 28]
 
-==== Objektive Zurechnung
+==== Objektive Zurechnung <objZurechnung>
 Die Äquivalenztheorie ist sehr weitreichend, wodurch auch äußerst unwahrscheinliche Ursachen erfasst werden. Aus diesem Grund wurden weitere Kriterien entwickelt, die diese Äquivalenztheorie begrenzen. Dadurch soll eine unbegrenzte Haftung für entfernte und unwahrscheinliche Ursachen verhindert werden.#footnote[vgl. @Brox2021, § 45 Rn. 29]
 
 Die Zurechnung entfällt durch die Adäquanztheorie, wenn der Erfolg nur unter höchst ungewöhnlichen, unvorhersehbaren Umständen eintritt. Die Adäquanz hat jedoch bei § 823 Abs. 1 keine eigenständige Funktion, da die Vorhersehbarkeit auch auf der Verschuldensebene geprüft wird.
@@ -138,10 +138,30 @@ Die Verpflichtung zur Erfüllung von Verkehrspflichten kann auch übertragen wer
 // Die Verkehrspflichten können im Zusammenhang mit der objektiven Zurechnung, oder früher, in der Handlung und Unterlassung, geprüft werden. Dies ist jedoch umstritten, wodurch auch eine Prüfung im Rahmen der Rechtswidrigkeit (und nicht beim Tatbestand, welches sowohl die objektive Zurechnung und die Handlung und Unterlassung einschließt) verbreitet ist, teilweise werden sie auch an beiden Stellen verteilt überprüft. In diesem Assignment werden sie an dieser Stelle erwähnt, also der objektiven Zurechnung. Argumentativ können sie bei der objektiven Zurechnung überprüft werden, da sie kein separates Prüfungselement sein sollen, jedoch stattdessen, wie auch andere Zurechnungskriterien, die Äquivalenztheorie auf normativ Verantwortliche begrenzen.  
 
 In diesem Assignment wurden die Verkehrspflichten als einschränkende Zurechnungskriterien bei der objektiven Zurechnung genutzt. Dies ist jedoch in der Rechtswissenschaft umstritten. Es ist verbreitet, dass die Verkehrspflichten beim objektiven Tatbestand, entweder der objektiven Zurechnung (wie hier), oder noch früher, in der Handlung und Unterlassung, geprüft werden.#footnote[vgl. @Brox2021, § 45 Rn. 46]#footnote[vgl. @Medicus2017, § 25 Rn. 647] Eine andere Möglichkeit ist die Eingliederung in der Rechtswidrigkeit, was auf die Überlegung basiert, dass die Verkehrspflichten Konkretisierungen des tatbeständigen Verhalten sind.#footnote[vgl. @Looschelders2022, § 59 Rn. 5] 
+
 == Rechtswidrigkeit 
+Sobald die haftungsbegründende Kausalität vorliegt (tatbestandsmäßigkeit), ist die Rechtswidrigkeit indiziert. Daraufhin muss nur noch überprüft werden, ob Rechtfertigungsgründe vorliegen. Diese Rechtfertigungsgründe sind in den §§ 227ff. geregelt.#footnote[vgl. @Looschelders2022, § 59 Rn. 14] 
 
+Rechtfertigungsgründe sind somit unter anderem die Notwehr, der Verteidigungsnotstand, der Angriffsnotstand, die Selbsthilfe oder die gesetzliche Ermächtigung (z.B. Recht zur vorläufigen Festnahme).#footnote[vgl. @Brox2021, § 45 Rn. 50] 
 
+Die Einwilligung des Geschädigten ist ebenso ein Rechtfertigungsgrund. Diese Einwilligung kann ist jedoch nur gültig, wenn der Betreffende über das Rechtsgut entscheiden kann. Eine Tötung kann somit nicht bewilligt werden. Falls die Einwilligung nicht eingeholt werden kann (z.B. Bewusstlosigkeit), ist die mutmaßliche Einwilligung als Rechtfertigungsgrund möglich.#footnote[vgl. @Looschelders2022, § 59 Rn. 16]
+
+Falls Unterlassen der Grund für die Rechtsgutsverletzung ist, so kann die Verletzung von Verkehrspflichten für die Entscheidung einer Rechtswidrigkeit genutzt werden. Das ist jedoch nur dann sinnvoll, wenn sie nicht schon im Zusammenhang mit der haftungsbegründenden Kausalität geprüft wurden, wie es in diesem Assignment gemacht wurde. Dies wurde in @objZurechnung ebenso erläutert. 
+
+Eine Ausnahme zur Rechtswidrigkeit bilden die Rahmenrechte. Hierbei ist die Rechtswidrigkeit nicht durch die Tatbestandsmäßigkeit (das Eindringen in die Persönlichkeitsrechte) indiziert. Deswegen ist bei den Rahmenrechten im Unterschied die Rechtswidrigkeit erst als positiv festzustellen.#footnote[vgl. @Hau2024 § 823 Rn. 262] 
+
+Das liegt daran, dass die Rahmenrechte keine feste und eindeutige Umgrenzung besitzen. Beim Persönlichkeitsrecht muss so je nach Einzelfall eine Interessenabwägung verfolgen. Die Rechtswidrigkeit hängt dabei von der Intensität des Eingriffs, der Stellung des Betroffenen (private Person oder Person des öffentlichen Lebens), sowie der Art und Zielsetzung der Äußerung ab. Trotzdem können auch Rechtfertigungsgründe relevant sein. Bei vorhandenem Rechtfertigungsgrund kann auf die zuvor genannte Abwägung verzichtet werden, da eine Rechtswidrigkeit somit ausgeschlossen ist.#footnote[vgl. @Looschelders2022, § 61 Rn. 5]
+
+== Verantwortlichkeit
+Für einen Schadensersatzanspruch ist zusätzlich zur haftungsbegründenden Kausalität sowie der festgestellten Rechtswidrigkeit ein Verschulden des Schädigers gegeben sein.#footnote[vgl. @Brox2021, § 45 Rn. 58]  
 
 = Fazit
 Noch Ausstehend! 
 Danke fürs Probelesen! :) 
+
+
+/* Fragen an Jannis:
+- Mehrere Rn. zitieren, wie? hat er das gemacht`?
+- ist Medicus so richtig zitiert? 
+- allgemeiner Vergleich mit seinem Assignment
+*/
