@@ -69,11 +69,13 @@ Die Verkehrssicherungspflichten spielen eine zentrale Rolle im Deliktsrecht und 
 6. Schaden und haftungsausfüllende Kausalität
 7. Haftungsausschluss
 */
-Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen.#footnote[vgl. @beck_online, § 45 Rn. 6]
+Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
+#footnote[@looschelders_schuldrecht, §59 Rn 1.]
+
 
 = Verkehrspflichten
-Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen #footnote[#cite(<looschelders_schuldrecht>, supplement: [Looschelders Schuldrecht BT, § 59 Rn 3.])] .
-Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat.#footnote[#cite(<looschelders_schuldrecht>, supplement: [Looschelders Schuldrecht BT, § 59 Rn 3.])] .
+Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht §59 Rn 3.]
+Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht §59 Rn 3.]
 - Hier sollte auf das Erfolgsunrecht eingegangen werden
 
 == Vorraussetzungen der Verkehrssicherungspflichten
