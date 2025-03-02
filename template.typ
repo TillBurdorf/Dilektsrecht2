@@ -223,13 +223,14 @@
 
   // Coversheet
   // SAP and DHBW Logo
+  
   grid(
     columns: (1fr, 1fr),
     align(left)[
-      #image("assets/SAP-Logo.svg", height: 2.5cm)
+      // #image("assets/SAP-Logo.svg", height: 2.5cm)
     ],
     align(right)[
-      #image("assets/DHBW-Logo.svg", height: 2.5cm)
+      // #image("assets/DHBW-Logo.svg", height: 2.5cm)
     ],
   )
 

@@ -24,13 +24,13 @@
   firstname: "Till",
   lastname: "Burdorf",
   signature_place: "Mannheim",
-  matriculation_number: "NOCH HINZUFÜGEN",
+  matriculation_number: "s241317",
   course: "WWI2024SEA",
   submission_date: "12. März 2025",
   processing_period: "20.02.2025 - 12.03.2025",
   //supervisor_company: "Christian Klein",
-  student_mail: "Noch Hinzufpgen",
-  supervisor_university: "Alexander Mayer",
+  student_mail: "s241317@student.dhbw-mannheim.de",
+  supervisor_university: "Alexander Meyer",
 
   // Disable the abstract by changing to `abstract: ()`
   // To load the abstract from a file use include("abstract.typ") instead of [...]`
@@ -72,13 +72,14 @@ Die Verkehrssicherungspflichten spielen eine zentrale Rolle im Deliktsrecht und 
 Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
 #footnote[@looschelders_schuldrecht, §59 Rn 1.]
 
-
 = Verkehrspflichten
 Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht §59 Rn 3.]
 Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht §59 Rn 3.]
 - Hier sollte auf das Erfolgsunrecht eingegangen werden
 
 == Vorraussetzungen der Verkehrssicherungspflichten
+Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft. Daraus ergibt die verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[BGH Urteil noch hinzufügen]
+
 - basiert auf Kraft Rn 52 und so weiter 
 Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen. Sollte das Vorliegen einer Gefahr gegeben sein, ist nach wie vor zu klären in welchem Umfang die Verkehrssicherungspflichten bestehen. Hierzu gibt es keine konkreten Regelungen im Gesetz, weswegen sich auf die gängige Rechtssprechung berufen werden muss. Der BGH bewertet den Umfang dieser an der Erforderlichkeit von Maßnahmen, der Zumutbarkeit für den Verpflichteten und den berechtigten Sicherheitserwartungen des Verkehrs. 
 === gefahrträchtige Situation
