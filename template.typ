@@ -1,6 +1,6 @@
 #import "@preview/glossarium:0.5.1": make-glossary, register-glossary, print-glossary, gls, glspl
 
-#let page_numbering = "1 / 1"
+#let page_numbering = "1"
 #let heading_numbering = "1.1.1"
 
 #let __tpl_messages_array = (

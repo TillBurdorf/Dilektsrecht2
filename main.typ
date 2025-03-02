@@ -70,20 +70,31 @@ Die Verkehrssicherungspflichten spielen eine zentrale Rolle im Deliktsrecht und 
 7. Haftungsausschluss
 */
 Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
-#footnote[@looschelders_schuldrecht, §59 Rn 1.]
+#footnote[@looschelders_schuldrecht_2022, §59 Rn 1.]
+Bei dir Prüfung des §823 sollte die Reihenfolge: Prüfung des objektiven Tatbestandes, Rechtswidrigkeit und Verschulden beachtet werden.
+Dazu wird zuerst geprüft ob eine Verletzungshandlung im Sinne der allgemeinen oder besonderen Verschuldenshaftung oder der Gefährdungshaftung gegeben ist und ob durch diese im Rechtssinne einen Schaden verursacht hat. Zusätzlich muss die Rechtswidrigkeit und das Verschulden geprüft werden. #footnote[#emph[#text(red)[Noch die Quelle ergänzen ist Kraft S 943]]]
 
 = Verkehrspflichten
-Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht §59 Rn 3.]
-Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht §59 Rn 3.]
+Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
+Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 - Hier sollte auf das Erfolgsunrecht eingegangen werden
 
 == Vorraussetzungen der Verkehrssicherungspflichten
 Die konkrete Definition der Verkehrspflichten geht nicht direkt aus dem Gesetztestext hervor, allerdings erfolgt die Definition in der Literatur und der ständigen Rechtssprechung. 
 Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft. Daraus ergibt die verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[@BGH2014 Rn. 8.]
+Wichtig ist hier hervorzuheben, dass auch 
+
+
 
 - basiert auf Kraft Rn 52 und so weiter 
 Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen. Sollte das Vorliegen einer Gefahr gegeben sein, ist nach wie vor zu klären in welchem Umfang die Verkehrssicherungspflichten bestehen. Hierzu gibt es keine konkreten Regelungen im Gesetz, weswegen sich auf die gängige Rechtssprechung berufen werden muss. Der BGH bewertet den Umfang dieser an der Erforderlichkeit von Maßnahmen, der Zumutbarkeit für den Verpflichteten und den berechtigten Sicherheitserwartungen des Verkehrs. 
 === gefahrträchtige Situation
 Da es unmöglich ist jede abstakte Gefahr abzuwenden, gelten Verkehrssicherungspflichten nur dann, wenn 
 
-=== 
+=== Wann genügt man einer Verkehrssicherungspflicht
+Um der Verkehrssicherungspflicht zu genügen ist es notwendig diejenigen Maßnahmen zu ergreifen, "die ein umsichtiger und verständiger, in vernünftigen Grenzen vorsichtiger Mensch für notwendig und ausreichend hält". #emph(text(red)[BGH Urteil 299/13]) bzw "alle nach Lage der Verhältnisse erforderlichen Sicherungsmaßnahmen zum Schutz anderer Personen zu treffen"(Fikentscher §107 III b 1592).
+
+
+#emph(text(red)[muss noch weiter spezifiziert werden ])
+
+== Regelung für Tiere nach § 833 BGB
