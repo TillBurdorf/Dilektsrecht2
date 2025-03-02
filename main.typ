@@ -104,3 +104,4 @@ Nach übereinstimmender Meinung der Literatur liegt hier Wertungsrecht ohne eine
 Nach der ständigen Rechtssprechung gilt, dass eine nicht beachtete Verkehrssicherungspflicht genau dann haftungsbegründend ist, wenn sich die naheliegende Möglichkeit ergibt, dass andere dabei zu Schaden kommen bzw das dabei Rechtsgüter anderer verletzt werden. So muss nicht jede abstrakte Gefahr bedacht und ausgeschlossen werden, sondern es sind Maßnahmen zu ergreifen die eine Schädigung in zumutbarer und vernünftiger Weise abwenden. #footnote[@BGH2014 Rn. 9.]
 
 == Regelung für Tiere nach § 833 BGB
+Test
