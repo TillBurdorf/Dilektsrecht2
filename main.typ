@@ -15,7 +15,7 @@
   /// Cover Sheet
   ///
   // Full title of your project
-  title_long: "Deliktsrecht 2",
+  title_long: "Verkehrssicherrungspflichten",
   // Shortened title, which is displayed in the header on every page
   title_short: "Deliktsrecht 2",
   // The type of your project
@@ -56,34 +56,27 @@
 // Edit this content to your liking
 
 = Einleitung
-Die Verkehrssicherungspflichten spielen eine zentrale Rolle im Deliktsrecht und im Bezug auf mögliche Schadensersatzansprüche gemäß § 823 I BGB. Die folgende Ausarbeitung bietet eine abstrakte darstellung der vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt. Insbesondere wird auch die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
+Die Verkehrssicherungspflichten spielen eine zentrale Rolle im Deliktsrecht und im Bezug auf mögliche Schadensersatzansprüche gemäß § 823 I BGB. Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt. Insbesondere wird auch die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
 
-= Anspruchsgrundlagen des §823 BGB
-/*
-- nach Looschelders Schuldrecht Besonderer Teil
-1. Rechtsgutsverletzung
-2. Pflichtwidrige Handlung oder Unterlassung
-3. Haftungsbegründende Kausalität
-4. Rechtswidrigkeit
-5. Verschulden
-6. Schaden und haftungsausfüllende Kausalität
-7. Haftungsausschluss
-*/
-Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
-#footnote[@looschelders_schuldrecht_2022, §59 Rn 1.]
-Bei dir Prüfung des §823 sollte die Reihenfolge: Prüfung des objektiven Tatbestandes, Rechtswidrigkeit und Verschulden beachtet werden.
-Dazu wird zuerst geprüft ob eine Verletzungshandlung im Sinne der allgemeinen oder besonderen Verschuldenshaftung oder der Gefährdungshaftung gegeben ist und ob durch diese im Rechtssinne einen Schaden verursacht hat. Zusätzlich muss die Rechtswidrigkeit und das Verschulden geprüft werden. #footnote[#emph[#text(red)[Noch die Quelle ergänzen ist Kraft S 943]]]
+= Grundlagen der Verkehrssicherungspflichten
+== Begriff und Einordnung
 
-= Verkehrspflichten
+
 Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 - Hier sollte auf das Erfolgsunrecht eingegangen werden
+== Funktion der Verkehrssicherrungspflichten
+Adäquanztheorie lässt einen großen Rahmen an Schuldigen -> Verkehrspflichten grenzen das ein 
+Wenn eingrenzung möglich ist die rechtswidrigkeit indiziert
+
 
 == Vorraussetzungen der Verkehrssicherungspflichten
 Die konkrete Definition der Verkehrspflichten geht nicht direkt aus dem Gesetztestext hervor, allerdings erfolgt die Definition in der Literatur und der ständigen Rechtssprechung. 
 Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft. Daraus ergibt die verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[@BGH2014 Rn. 8.]
 Die Verantwortlichkeit für eine Gefahrenquelle liegt somit bei der Person, die die Herrschaft über die Gefahrenquelle hat. #footnote[@krafft_kommunales_2016 Einführung Rn. 1.]
 Die Verantwortung ergibt sich aus dem Vertrauensgedanken #footnote[@krafft_kommunales_2016 Einführung Rn. 1.], dass ein Gefahrenbereich nur dann für dritte zugänglich gemacht wird, wenn die notwenigen maßnahmen zur Schadensvermeidung getroffen wurden. 
+Außerdem kann auch schon das teilnehmen und damit einhergehende einwirken auf einen bereits bestehenden Verkehr zu einer Verkehrspflicht führen. QUELLE!
+
 
 - basiert auf Kraft Rn 52 und so weiter 
 Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen. Sollte das Vorliegen einer Gefahr gegeben sein, ist nach wie vor zu klären in welchem Umfang die Verkehrssicherungspflichten bestehen. Hierzu gibt es keine konkreten Regelungen im Gesetz, weswegen sich auf die gängige Rechtssprechung berufen werden muss. Der BGH bewertet den Umfang dieser an der Erforderlichkeit von Maßnahmen, der Zumutbarkeit für den Verpflichteten und den berechtigten Sicherheitserwartungen des Verkehrs. 
@@ -102,6 +95,25 @@ Nach übereinstimmender Meinung der Literatur liegt hier Wertungsrecht ohne eine
 
 === Wann hat man einen Schadensersatzanspruch aus einer Verkehrssicherungspflicht
 Nach der ständigen Rechtssprechung gilt, dass eine nicht beachtete Verkehrssicherungspflicht genau dann haftungsbegründend ist, wenn sich die naheliegende Möglichkeit ergibt, dass andere dabei zu Schaden kommen bzw das dabei Rechtsgüter anderer verletzt werden. So muss nicht jede abstrakte Gefahr bedacht und ausgeschlossen werden, sondern es sind Maßnahmen zu ergreifen die eine Schädigung in zumutbarer und vernünftiger Weise abwenden. #footnote[@BGH2014 Rn. 9.]
+== VSP im Gesetz 
+BGB 831- 838
 
 == Regelung für Tiere nach § 833 BGB
 Test
+
+
+= Anspruchsgrundlagen des §823 BGB
+/*
+- nach Looschelders Schuldrecht Besonderer Teil
+1. Rechtsgutsverletzung
+2. Pflichtwidrige Handlung oder Unterlassung
+3. Haftungsbegründende Kausalität
+4. Rechtswidrigkeit
+5. Verschulden
+6. Schaden und haftungsausfüllende Kausalität
+7. Haftungsausschluss
+*/
+Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
+#footnote[@looschelders_schuldrecht_2022, §59 Rn 1.]
+Bei dir Prüfung des §823 sollte die Reihenfolge: Prüfung des objektiven Tatbestandes, Rechtswidrigkeit und Verschulden beachtet werden.
+Dazu wird zuerst geprüft ob eine Verletzungshandlung im Sinne der allgemeinen oder besonderen Verschuldenshaftung oder der Gefährdungshaftung gegeben ist und ob durch diese im Rechtssinne einen Schaden verursacht hat. Zusätzlich muss die Rechtswidrigkeit und das Verschulden geprüft werden. #footnote[#emph[#text(red)[Noch die Quelle ergänzen ist Kraft S 943]]]
