@@ -78,7 +78,8 @@ Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusä
 - Hier sollte auf das Erfolgsunrecht eingegangen werden
 
 == Vorraussetzungen der Verkehrssicherungspflichten
-Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft. Daraus ergibt die verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[BGH Urteil noch hinzufügen]
+Die konkrete Definition der Verkehrspflichten geht nicht direkt aus dem Gesetztestext hervor, allerdings erfolgt die Definition in der Literatur und der ständigen Rechtssprechung. 
+Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft. Daraus ergibt die verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[@BGH2014 Rn. 8.]
 
 - basiert auf Kraft Rn 52 und so weiter 
 Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen. Sollte das Vorliegen einer Gefahr gegeben sein, ist nach wie vor zu klären in welchem Umfang die Verkehrssicherungspflichten bestehen. Hierzu gibt es keine konkreten Regelungen im Gesetz, weswegen sich auf die gängige Rechtssprechung berufen werden muss. Der BGH bewertet den Umfang dieser an der Erforderlichkeit von Maßnahmen, der Zumutbarkeit für den Verpflichteten und den berechtigten Sicherheitserwartungen des Verkehrs. 
