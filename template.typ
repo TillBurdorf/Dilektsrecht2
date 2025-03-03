@@ -382,26 +382,18 @@
   set page(
     header: {
       context {
+        
         if here().page-numbering() == page_numbering {
           let headingsBefore = query(selector(heading).before(here())).filter(h => h.level == 1)
           let headingsAfter = query(selector(heading).after(here())).filter(h => h.level == 1)
 
-          // if level 1 heading is on current page, use it as header
-          let currentHeading = if headingsAfter != () and headingsAfter.first().location().page() == here().page() {
-            headingsAfter.first().body
-          } else if headingsBefore != () {
-            headingsBefore.last().body
-          } else {
-            // display a minus if no level 1 headings exist
-            [---]
-          }
-
           grid(
             columns: (auto, 1fr),
-            align(left, text(title_short)), align(right, text(style: "italic", currentHeading)),
+            align(left, text(title_short)), align(right, text(style: "italic", "Till Burdorf")),
           )
           line(length: 100%, stroke: (paint: gray))
         }
+        
       }
     },
   )
