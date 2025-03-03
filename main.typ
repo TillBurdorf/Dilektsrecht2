@@ -77,7 +77,7 @@ Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung v
 - Gliederung in Haftungsbegründende und Ausführende nacharbeiten
 Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
 #footnote[@looschelders_schuldrecht_2022, §59 Rn 1.]
-Bei dir Prüfung des §823 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II)Rechtswidrigkeit und (III) Verschulden beachtet werden.
+Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II)Rechtswidrigkeit und (III) Verschulden beachtet werden.
 
 (I)
 Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechtsvgl §823 1 BGB.
@@ -91,14 +91,16 @@ Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normfall durch 
 Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspficht.
 
 (III) Im Anschluss ist das Verschulden sicherzustellen.
+- hier sollte u.U. noch kurz der haftungsausfüllende Tatbestand angesprochen werden
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
+Die Verkehrssicherungspflichten können also innerhalb des haftungsbegründenden Tatbestandes eingeordnet werden. 
 Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
 Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
 Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
-- Hier sollte auf das Erfolgsunrecht eingegangen werden
+Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 3.] . Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. (z.B. bei der Missachtung einer Verkehrssicherungspflicht) #footnote[NOCH RICHTIG MACHEN https://ruessmann.jura.uni-saarland.de/bvr2006/Vorlesung/unrechtskonzeption.htm] .
 == Funktion der Verkehrssicherrungspflichten
 Adäquanztheorie lässt einen großen Rahmen an Schuldigen -> Verkehrspflichten grenzen das ein 
 Wenn eingrenzung möglich ist die rechtswidrigkeit indiziert

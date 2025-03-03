@@ -223,7 +223,8 @@
 
   // Coversheet
   // SAP and DHBW Logo
-  
+  set page(numbering: page_numbering, footer: auto)
+
   grid(
     columns: (1fr, 1fr),
     align(left)[
@@ -282,11 +283,10 @@
       [*#__tpl_message("supervisor_university", lang)*], [#supervisor_university],
     )
   ]
-  pagebreak()
 
-  //Start page count on second page
-  counter(page).update(1)
-  set page(numbering: "I")
+  pagebreak()
+   //Start page count on second page
+  set page(numbering: page_numbering)
 
   // Eidesstattliche Erklaerung
 //  import "assets/declaration_of_originality.typ": declarationOfOriginalityWith
@@ -409,15 +409,8 @@
   // display main document and reset page counter
   set page(
     numbering: page_numbering,
-    footer: align(center)[
-      #context counter(page).display() / #context {
-        let end = query(<end>).first()
-        counter(page).at(end.location()).first()
-      }
-    ],
     margin: (top: 4cm, x: 2.5cm, bottom: 2.5cm),
   )
-  counter(page).update(1)
 
   set par(
     leading: 0.9em,
@@ -428,8 +421,7 @@
   [#[] <end>]
 
   // display bibliography
-  set page(numbering: "a", footer: auto)
-  counter(page).update(1)
+  set page(numbering: page_numbering, footer: auto)
 
   bibliography(
     library_paths,
@@ -440,8 +432,7 @@
   // display appendix
   if appendices != none {
     set heading(level: 1, outlined: false)
-    set page(numbering: "A", footer: auto)
-    counter(page).update(1)
+    set page(numbering: page_numbering, footer: auto)
     counter(heading).update(0)
 
     heading(__tpl_message("list_appendix", lang), numbering: none, outlined: true)
