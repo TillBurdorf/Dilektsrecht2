@@ -62,6 +62,7 @@ Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung v
 
 
 = Anspruchsgrundlagen des §823 BGB
+
 /*
 - nach Looschelders Schuldrecht Besonderer Teil
 1. Rechtsgutsverletzung
@@ -72,11 +73,24 @@ Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung v
 6. Schaden und haftungsausfüllende Kausalität
 7. Haftungsausschluss
 */
+
 - Gliederung in Haftungsbegründende und Ausführende nacharbeiten
 Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
 #footnote[@looschelders_schuldrecht_2022, §59 Rn 1.]
-Bei dir Prüfung des §823 sollte die Reihenfolge: Prüfung des objektiven Tatbestandes, Rechtswidrigkeit und Verschulden beachtet werden.
-Dazu wird zuerst geprüft ob eine Verletzungshandlung im Sinne der allgemeinen oder besonderen Verschuldenshaftung oder der Gefährdungshaftung gegeben ist und ob durch diese im Rechtssinne einen Schaden verursacht hat. Zusätzlich muss die Rechtswidrigkeit und das Verschulden geprüft werden. #footnote[#emph[#text(red)[Noch die Quelle ergänzen ist Kraft S 943]]]
+Bei dir Prüfung des §823 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II)Rechtswidrigkeit und (III) Verschulden beachtet werden.
+
+(I)
+Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechtsvgl §823 1 BGB.
+Zusätzlich muss diese Verletzung des Rechtsgutes durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder wenn eine Verkehrssicherungspflicht besteht. 
+Sollten sowohl  eine Verletzungshandlung als auch eine Rechtsgutsverletzung vorliegen, so ist zusätzlich sicherzustellen, dass eine Haftungsbegründende Kausalität besteht, also eine kausalität zwischen der Verletzungshandlund und der Rechtsgutsverletzung. 
+- dreistufige Prüfung der Haftungsbegründenden Kausalität hier einfügen
+(II)
+Wenn der objektive Tatbestand bejaht werden kann ist im nächsten Schritt notwendig, dass eine Rechtswidrigkeit vorliegt. Wie auch schon bei der Verlertzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren SChädigung durch aktives menschliches Tun und der mittelbaren Schädigug durch Unterlassen unterschieden. 
+Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normfall durch die erfüllung des objektiven Tatbestandes indiziert.
+- Rechtfertigungsgründe anführen
+Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspficht.
+
+(III) Im Anschluss ist das Verschulden sicherzustellen.
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
