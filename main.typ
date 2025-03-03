@@ -15,7 +15,7 @@
   /// Cover Sheet
   ///
   // Full title of your project
-  title_long: "Verkehrssicherrungspflichten",
+  title_long: "Deliktsrecht 2 Verkehrssicherrungspflichten",
   // Shortened title, which is displayed in the header on every page
   title_short: "Deliktsrecht 2",
   // The type of your project
@@ -56,13 +56,33 @@
 // Edit this content to your liking
 
 = Einleitung
-Die Verkehrssicherungspflichten spielen eine zentrale Rolle im Deliktsrecht und im Bezug auf mögliche Schadensersatzansprüche gemäß § 823 I BGB. Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt. Insbesondere wird auch die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
+Das deutsche Deliktsrecht ist in §§823 bis 853 BGB geregelt und beschäftigt sich mit zivilrechtlichen Schadensersatzansprüchen.
+Aus den in §823 1 BGB geregelten Grundsätzen zu Schadenersatzansprüchen werden auch die sog. Verkehrs(sicherungs)pflichten abgeleitet, welche die Pflicht betreffen, beim unterhalten oder einwirken auf eine Gefahrenquelle, diese zu sichern oder Dritte vor vorhersehbaren Schäden zu Schützen.
+Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt bzw wann aus ihnen ein Schadensersatzanspruch aus §823 1 BGB entsteht. Insbesondere wird auch die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
+
+
+= Anspruchsgrundlagen des §823 BGB
+/*
+- nach Looschelders Schuldrecht Besonderer Teil
+1. Rechtsgutsverletzung
+2. Pflichtwidrige Handlung oder Unterlassung
+3. Haftungsbegründende Kausalität
+4. Rechtswidrigkeit
+5. Verschulden
+6. Schaden und haftungsausfüllende Kausalität
+7. Haftungsausschluss
+*/
+- Gliederung in Haftungsbegründende und Ausführende nacharbeiten
+Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
+#footnote[@looschelders_schuldrecht_2022, §59 Rn 1.]
+Bei dir Prüfung des §823 sollte die Reihenfolge: Prüfung des objektiven Tatbestandes, Rechtswidrigkeit und Verschulden beachtet werden.
+Dazu wird zuerst geprüft ob eine Verletzungshandlung im Sinne der allgemeinen oder besonderen Verschuldenshaftung oder der Gefährdungshaftung gegeben ist und ob durch diese im Rechtssinne einen Schaden verursacht hat. Zusätzlich muss die Rechtswidrigkeit und das Verschulden geprüft werden. #footnote[#emph[#text(red)[Noch die Quelle ergänzen ist Kraft S 943]]]
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
-
-
-Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
+Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
+Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
+Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 - Hier sollte auf das Erfolgsunrecht eingegangen werden
 == Funktion der Verkehrssicherrungspflichten
@@ -99,21 +119,3 @@ Nach der ständigen Rechtssprechung gilt, dass eine nicht beachtete Verkehrssich
 BGB 831- 838
 
 == Regelung für Tiere nach § 833 BGB
-Test
-
-
-= Anspruchsgrundlagen des §823 BGB
-/*
-- nach Looschelders Schuldrecht Besonderer Teil
-1. Rechtsgutsverletzung
-2. Pflichtwidrige Handlung oder Unterlassung
-3. Haftungsbegründende Kausalität
-4. Rechtswidrigkeit
-5. Verschulden
-6. Schaden und haftungsausfüllende Kausalität
-7. Haftungsausschluss
-*/
-Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
-#footnote[@looschelders_schuldrecht_2022, §59 Rn 1.]
-Bei dir Prüfung des §823 sollte die Reihenfolge: Prüfung des objektiven Tatbestandes, Rechtswidrigkeit und Verschulden beachtet werden.
-Dazu wird zuerst geprüft ob eine Verletzungshandlung im Sinne der allgemeinen oder besonderen Verschuldenshaftung oder der Gefährdungshaftung gegeben ist und ob durch diese im Rechtssinne einen Schaden verursacht hat. Zusätzlich muss die Rechtswidrigkeit und das Verschulden geprüft werden. #footnote[#emph[#text(red)[Noch die Quelle ergänzen ist Kraft S 943]]]
