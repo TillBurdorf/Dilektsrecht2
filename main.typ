@@ -139,7 +139,7 @@ BGB 831- 838
 #text(weight: "bold")[Tier]: Die Definition eines Tieres ist durch den allgemeinen Sprachgebrauch definiert. Die Literatur weißt allerdings darauf hin, dass die inklusion von Mikroorganismen wie Viren und Bakterien umstritten ist. Dafür spricht, dass Mikroorganismen lebendige Organismen sind und somit eine Nähe zum Wortsinn des Tieres bieten. Dagegen spricht allerdings, dass sie keine Lebewesen mit einem unberechenbaren Verhalten sind, welches eine wichtige Grundlage des §833 BGB ist #footnote[@looschelders_schuldrecht_2022 §69 Rn. 3.] .
 
 #text(weight: "bold")[Tierhalter]:
-Der Tierhalter ist nicht gleichzusetzen mit dem Eigentümer des Tieres. Unter dem Tierhalter wird vielmehr diejenige Person verstanden, die die tatsächliche Herrschaft über das Tier inne hat #footnote[@looschelders_schuldrecht_2022 §68 Rn. 6.] .
+Der Tierhalter ist nicht gleichzusetzen mit dem Eigentümer des Tieres. Unter dem Tierhalter wird vielmehr diejenige Person verstanden, die die tatsächliche Herrschaft über das Tier inne hat #footnote[@looschelders_schuldrecht_2022 §68 Rn. 6.] . Dabei ist eine Person nur haftbarer Halter, wenn er das Tier willentlich annimmt #footnote[@fikentscher_schuldrecht_2022 §113 Rn. 1686.] .
 
 #text(weight: "bold")[Haustier / Nutztier / Luxustier]:
 Unter den Begriff Haustier fallen zahme Tiere wie z.B. Hunde, Schweine usw. davon abzugrenzen sind die gezähmten Tiere #footnote[@looschelders_schuldrecht_2022 §68 Rn. 7.]
