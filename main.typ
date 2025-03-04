@@ -60,7 +60,6 @@ Das deutsche Deliktsrecht ist in §§823 bis 853 BGB geregelt und beschäftigt s
 Aus den in §823 1 BGB geregelten Grundsätzen zu Schadenersatzansprüchen werden auch die sog. Verkehrs(sicherungs)pflichten abgeleitet, welche die Pflicht betreffen, beim unterhalten oder einwirken auf eine Gefahrenquelle, diese zu sichern oder Dritte vor vorhersehbaren Schäden zu Schützen.
 Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt bzw wann aus ihnen ein Schadensersatzanspruch aus §823 1 BGB entsteht. Insbesondere wird auch die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
 
-
 = Schadensersatzanspruch gem. §823 1 BGB
 
 /*
@@ -77,15 +76,15 @@ Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung v
 - Gliederung in Haftungsbegründende und Ausführende nacharbeiten
 Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
 #footnote[@looschelders_schuldrecht_2022, §59 R. 1.]
-Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II)Rechtswidrigkeit und (III) Verschulden beachtet werden.
+Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden.
 
 (I)
-Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechtsvgl §823 1 BGB.
-Zusätzlich muss diese Verletzung des Rechtsgutes durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder wenn eine Verkehrssicherungspflicht besteht. 
+Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechts vgl. §823 1 BGB.
+Zusätzlich muss diese Rechtsgutssverletzung durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder bei einer Verkehrssicherrungspflicht. 
 Sollten sowohl  eine Verletzungshandlung als auch eine Rechtsgutsverletzung vorliegen, so ist zusätzlich sicherzustellen, dass eine Haftungsbegründende Kausalität besteht, also eine kausalität zwischen der Verletzungshandlund und der Rechtsgutsverletzung. 
 - dreistufige Prüfung der Haftungsbegründenden Kausalität hier einfügen
 (II)
-Wenn der objektive Tatbestand bejaht werden kann ist im nächsten Schritt notwendig, dass eine Rechtswidrigkeit vorliegt. Wie auch schon bei der Verlertzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren SChädigung durch aktives menschliches Tun und der mittelbaren Schädigug durch Unterlassen unterschieden. 
+Wenn der objektive Tatbestand bejaht werden kann ist im nächsten Schritt notwendig, dass eine Rechtswidrigkeit vorliegt. Wie auch schon bei der Verlertzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren Schädigung durch aktives menschliches Tun und der mittelbaren Schädigung durch Unterlassen unterschieden. 
 Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normfall durch die erfüllung des objektiven Tatbestandes indiziert.
 - Rechtfertigungsgründe anführen
 Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspficht.
@@ -95,7 +94,11 @@ Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
-Die Verkehrssicherungspflichten können also innerhalb des haftungsbegründenden Tatbestandes eingeordnet werden. 
+Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen. Aufgrund des großen Definitionsspielraumes ergeben sich hier allerdings einige schwierigkeiten. 
+Zum einen ist fraglich, ob die Verkehrspflichten im Rahmen des Tatbestandes oder der Rechtswidrigkeit zu prüfen sind und zum anderen in welchem zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . Außerdem kanm der Begriff Verkehrssicherungspflichten missverstaneden werden, da es sich hierbei nicht allein um Pflichten im Straßenverkehr sondern vielmehr um allgemeine Sorgfaltspflichten handelt #footnote[Weber RN 127] .
+
+
+
 Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
 Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
 Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
@@ -152,8 +155,11 @@ In §833 BGB ist die Haftung des Tierhalters für durch das Tier verursachte Rec
 Damit aus der Rechtsgutsverletzung ein Schadensersatzanspruch gem. §833 BGB entsteht muss diese zum einen im Sinne der Äquivalenztheorie kausal und zum anderen die spezifische Tiergefahr verwirklicht sein. 
 Die spezifische Tiergefahr ergibt sich daraus, dass Tiere über Kräfte verfügen oder Verhaltensweisen zeigen, die für den Menschen unberechenbar sind. Für einen Anspruch aus §833 BGB muss die Rechtsgutsverletzung kausal aus einem durch die spezifische Tiergefahr eingeschlossene Handlung entstehen. 
 - Looschelders
-Je nach dem der Schaden durch ein Nutztier oder ein Luxustier verursacht wurde, ergeben sich unterschiedliche Haftungsmodelle. Bei den Nutztieren ergibt sich eine Verschuldenshaftung mit Beweislastumkehr gem §833 S 1&2. und für die Luxustiere eine strenge Gefährdungshaftung gem. §833 S 1.
+Je nach dem der Schaden durch ein Nutztier oder ein Luxustier verursacht wurde, ergeben sich unterschiedliche Haftungsmodelle. Bei den Nutztieren ergibt sich eine Verschuldenshaftung mit Beweislastumkehr gem. §833 S 1&2. und für die Luxustiere eine strenge Gefährdungshaftung gem. §833 S 1.
 
 === Luxustierhaftung
 
+
 === Nutztierhaftung
+Für einen durch ein Nutztier verurachten Schaden gilt, zur vermeidung einer übermäßigen Belastung von gewerblichen Tierhalten lediglich eine Verschuldenshaftung #footnote[@looschelders_schuldrecht_2022 §68 Rn. 1.] .
+Es besteht dann eine Exkulpationsmöglichkeit (Entlastungsmöglichkeit) für den Halter, wenn er bei der Beaufsichtigung des Tieres die nötige Sorgfalt eingehalten hat oder der Schaden auch bei Einhaltung der Nötigen Sorgfalt entstanden wäre #footnote[@looschelders_schuldrecht_2022 §68 Rn. 10.] .
