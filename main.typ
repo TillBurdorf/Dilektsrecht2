@@ -56,9 +56,9 @@
 // Edit this content to your liking
 
 = Einleitung
-Das deutsche Deliktsrecht ist in §§823 bis 853 BGB geregelt und beschäftigt sich mit zivilrechtlichen Schadensersatzansprüchen.
+Das deutsche Deliktsrecht ist in §§ 823 bis 853 BGB geregelt und beschäftigt sich mit zivilrechtlichen Schadensersatzansprüchen.
 Aus den in §823 1 BGB geregelten Grundsätzen zu Schadenersatzansprüchen werden auch die sog. Verkehrs(sicherungs)pflichten abgeleitet, welche die Pflicht betreffen, beim unterhalten oder einwirken auf eine Gefahrenquelle, diese zu sichern oder Dritte vor vorhersehbaren Schäden zu Schützen.
-Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt bzw wann aus ihnen ein Schadensersatzanspruch aus §823 1 BGB entsteht. Insbesondere wird auch die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
+Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt bzw wann aus ihnen ein Schadensersatzanspruch aus § 823 1 BGB entsteht. Zusätzlich wird die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
 
 = Schadensersatzanspruch gem. §823 1 BGB
 
@@ -97,15 +97,18 @@ Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht
 == Begriff und Einordnung
 Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen. Aufgrund des großen Definitionsspielraumes ergeben sich hier allerdings einige Schwierigkeiten. 
 Zum einen ist fraglich, ob die Verkehrspflichten im Rahmen des Tatbestandes oder der Rechtswidrigkeit zu prüfen sind und zum anderen in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . 
-// Abgrenzung von Fahrlässigkeit und VSP mit Meinungsstreit
-In der Abgrenzung von Verkehrspflichten zur Fahrlässigkeit aus §276 II gibt es in der Literatur unterschiedliche Auffassungen. Einerseits könne argumentiert werden, dass Fahrlässigkeit und Verkehrspflichten das selbe sind.
-
 Außerdem kanm der Begriff Verkehrssicherungspflichten missverstaneden werden, da es sich hierbei nicht allein um Pflichten im Straßenverkehr sondern vielmehr um allgemeine Sorgfaltspflichten handelt #footnote[Weber RN 127] .
+// Abgrenzung von Fahrlässigkeit und VSP mit Meinungsstreit
+In der Abgrenzung von Verkehrspflichten zur Fahrlässigkeit aus §276 II gibt es in der Literatur unterschiedliche Auffassungen darüber, ob beide das gleiche meinen, oder ob sie voneinander zu trennen sind.
+Teile der Literatur sind der Auffassung, dass für die Haftung aus §823 I sowohl die Fahrlässigkeit als auch die Verkehrspflichtverletzung erfüllt sein müssen, wobei erstere die innere und zweiteres die äußere Sorgfalt abbildet. Die äußere Sorgfalt beschreibt hierbei die Sorgfalt im Höchstmaß, wobei sich die innere auf den moderaten Standard der Sorgfalt im Verkehr beschränkt.
+Hier wird argumentiert, dass eine Verkehrspflichtsverlzung nach strengen Maßstäben zu bewerten ist als die einfache Fahrlässigkeit #footnote[@looschelders_schuldrecht_2022 §59 Rn. 12/13.] .
+In Teilen der Literatur wird dieser Ansatz verworfen und die Verkehrspflichtverletzung als anderer Name für die Sorgfaltsgebote aus § 276 II definiert. #footnote[Weber Rn 129] .
 
+Desweiteren ergeben sich durch die Verkehrspflichten Unterschiede im Schadenersatzanspruch asu § 823 If BGB.
 Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
 Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
 Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
-Bei diesen Fallgruppen muss zusätzlich geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
+Bei diesen Fallgruppen muss geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 3.] . Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. (z.B. bei der Missachtung einer Verkehrssicherungspflicht) #footnote[NOCH RICHTIG MACHEN https://ruessmann.jura.uni-saarland.de/bvr2006/Vorlesung/unrechtskonzeption.htm] . Bei mittelbaren Rechtsgutsverletzungen ergibt sich auch eine Veränderte Situation in der Prüfung der Schuld. Hier wird zwischen der Verletzung der äußeren und der inneren Sorgfalt unterschieden.
 == Funktion der Verkehrssicherrungspflichten
 Adäquanztheorie lässt einen großen Rahmen an Schuldigen -> Verkehrspflichten grenzen das ein 
@@ -117,6 +120,7 @@ Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage
 Die Verantwortlichkeit für eine Gefahrenquelle liegt somit bei der Person, die die Herrschaft über die Gefahrenquelle hat. #footnote[@krafft_kommunales_2016 Einführung Rn. 1.]
 Die Verantwortung ergibt sich aus dem Vertrauensgedanken #footnote[@krafft_kommunales_2016 Einführung Rn. 1.], dass ein Gefahrenbereich nur dann für dritte zugänglich gemacht wird, wenn die notwenigen maßnahmen zur Schadensvermeidung getroffen wurden. 
 Außerdem kann auch schon das teilnehmen und damit einhergehende einwirken auf einen bereits bestehenden Verkehr zu einer Verkehrspflicht führen. QUELLE!
+Das ergibt sich aus dem Gedanke des Vertrauensschutzes #footnote[@looschelders_schuldrecht_2022 §59 Rn. 6.] .
 
 
 - basiert auf Kraft Rn 52 und so weiter 
@@ -125,7 +129,7 @@ Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht ein
 Da es unmöglich ist jede abstakte Gefahr abzuwenden, gelten Verkehrssicherungspflichten nur dann, wenn 
 
 === Wann genügt man einer Verkehrssicherungspflicht
-Um der Verkehrssicherungspflicht zu genügen ist es notwendig diejenigen Maßnahmen zu ergreifen, "die ein umsichtiger und verständiger, in vernünftigen Grenzen vorsichtiger Mensch für notwendig und ausreichend hält". #emph(text(red)[BGH Urteil 299/13]) bzw "alle nach Lage der Verhältnisse erforderlichen Sicherungsmaßnahmen zum Schutz anderer Personen zu treffen"(Fikentscher §107 III b 1592).
+Um der Verkehrssicherungspflicht zu genügen ist es notwendig diejenigen Maßnahmen zu ergreifen, "die ein umsichtiger und verständiger, in vernünftigen Grenzen vorsichtiger Mensch für notwendig und ausreichend hält". #emph(text(red)[BGH Urteil 299/13]) bzw "alle nach Lage der Verhältnisse erforderlichen Sicherungsmaßnahmen zum Schutz anderer Personen zu treffen"(Fikentscher §107 III b 1592). Bei Gefahren, die im Rahmen der Berufs oder Gewerbeausübung auftreten, wird hingegen von der "Sichtweise eines verständigen, umsichtigen, vorsichtigen und gewissenhaften Angehörigen der betreffenden Berufsgruppe" gesprochen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 10.] .
 Man genügt einer Verkehrspflicht somit, indem man einen Sicherheitsgrad erreicht, der entsprechend der im jeweiligen Bereich entsprechenden Verkehrsauffassung entsprechend ist. #footnote[@BGH2014 Rn. 9.]
 Der Umfang der Maßnahmen die notwendig sind um einer Verkehrspflicht zu genügen ist somit schwer abstrakt festzulegen und beinhaltet einen großen Definitionsspielraum.
 Nach (Krafft, 2016) ergeben sich drei Kriterien, anhand derer eine annäherende objektivierung an die Anforderungen einer Verkehrspflicht möglich ist. Es gilt, dass der Umfang der Anforderungen von der schwere der drohenden Rechtsgutsverletzung, der Wahrscheinlichkeit des Schadenseintritts und der Größe des Aufwandes der Maßnahmen maßgeblich dafür ist, wann man seiner Pflicht genügt. #footnote[@krafft_kommunales_2016 Einführung Rn. 4.]
