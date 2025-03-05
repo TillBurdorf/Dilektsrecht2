@@ -78,6 +78,7 @@ Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädig
 #footnote[@looschelders_schuldrecht_2022, §59 R. 1.]
 Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden.
 
+
 (I)
 Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechts vgl. §823 1 BGB.
 Zusätzlich muss diese Rechtsgutssverletzung durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder bei einer Verkehrssicherrungspflicht. 
@@ -94,10 +95,12 @@ Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
-Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen. Aufgrund des großen Definitionsspielraumes ergeben sich hier allerdings einige schwierigkeiten. 
-Zum einen ist fraglich, ob die Verkehrspflichten im Rahmen des Tatbestandes oder der Rechtswidrigkeit zu prüfen sind und zum anderen in welchem zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . Außerdem kanm der Begriff Verkehrssicherungspflichten missverstaneden werden, da es sich hierbei nicht allein um Pflichten im Straßenverkehr sondern vielmehr um allgemeine Sorgfaltspflichten handelt #footnote[Weber RN 127] .
+Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen. Aufgrund des großen Definitionsspielraumes ergeben sich hier allerdings einige Schwierigkeiten. 
+Zum einen ist fraglich, ob die Verkehrspflichten im Rahmen des Tatbestandes oder der Rechtswidrigkeit zu prüfen sind und zum anderen in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . 
+// Abgrenzung von Fahrlässigkeit und VSP mit Meinungsstreit
+In der Abgrenzung von Verkehrspflichten zur Fahrlässigkeit aus §276 II gibt es in der Literatur unterschiedliche Auffassungen. Einerseits könne argumentiert werden, dass Fahrlässigkeit und Verkehrspflichten das selbe sind.
 
-
+Außerdem kanm der Begriff Verkehrssicherungspflichten missverstaneden werden, da es sich hierbei nicht allein um Pflichten im Straßenverkehr sondern vielmehr um allgemeine Sorgfaltspflichten handelt #footnote[Weber RN 127] .
 
 Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
 Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
@@ -107,7 +110,6 @@ Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und
 == Funktion der Verkehrssicherrungspflichten
 Adäquanztheorie lässt einen großen Rahmen an Schuldigen -> Verkehrspflichten grenzen das ein 
 Wenn eingrenzung möglich ist die rechtswidrigkeit indiziert
-
 
 == Vorraussetzungen der Verkehrssicherungspflichten
 Die konkrete Definition der Verkehrspflichten geht nicht direkt aus dem Gesetztestext hervor, allerdings erfolgt die Definition in der Literatur und der ständigen Rechtssprechung. 
@@ -148,6 +150,7 @@ Der Tierhalter ist nicht gleichzusetzen mit dem Eigentümer des Tieres. Unter de
 Unter den Begriff Haustier fallen zahme Tiere wie z.B. Hunde, Schweine usw. davon abzugrenzen sind die gezähmten Tiere #footnote[@looschelders_schuldrecht_2022 §68 Rn. 7.]
 Unter einem Nutztier wird ein Hausier verstanden, welches einen wirtschaftlcihen Zweck des Halters erfüllt. In §833 BGB heißt es dazu, dass Tier müsse dem Beruf, der Erwerbstätigkeit oder dem Unterhalt des Tierhalters zu dienen bestimmt sein.
 Davon abzugrenzen sind die Luxustiere, welche eben diesen wirtschaftlichen Zweck nicht verwirklichen. Dabei ist wichtig, dass diese erwerbsmäßige Nutzung die hauptsächliche Zwckbestimmung des Tieres ist #footnote[@looschelders_schuldrecht_2022 §68 Rn. 8.] .
+
 
 === Grundlagen und Einordnung der Tierhaftung 
 In §833 BGB ist die Haftung des Tierhalters für durch das Tier verursachte Rechtsgutsverletzungen geregelt. Konkret genannt werden die tötung, die verletzung von Körper oder Gesundheut oder die Beschädigung einer Sache durch ein Tier, welche gemäß §833 S. 1 einen Schadensersatzanspruch gegen denjenigen Begründet, der das Tier hält.
