@@ -405,7 +405,7 @@
   )
 
   set par(
-    leading: 0.9em,
+    leading: 1.5em,
     spacing: 1.5em
   )
 

@@ -143,6 +143,11 @@ Nach der ständigen Rechtssprechung gilt, dass eine nicht beachtete Verkehrssich
 == VSP im Gesetz 
 BGB 831- 838
 
+
+
+//------------------------------------------------------------------
+//------------------------------------------------------------------
+// ab hier folgt der Teil mit den Tieren
 == Regelung für Tiere nach § 833 BGB 
 === Begriffsklärungen 
 #text(weight: "bold")[Tier]: Die Definition eines Tieres ist durch den allgemeinen Sprachgebrauch definiert. Die Literatur weißt allerdings darauf hin, dass die inklusion von Mikroorganismen wie Viren und Bakterien umstritten ist. Dafür spricht, dass Mikroorganismen lebendige Organismen sind und somit eine Nähe zum Wortsinn des Tieres bieten. Dagegen spricht allerdings, dass sie keine Lebewesen mit einem unberechenbaren Verhalten sind, welches eine wichtige Grundlage des §833 BGB ist #footnote[@looschelders_schuldrecht_2022 §69 Rn. 3.] .
