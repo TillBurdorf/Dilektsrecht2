@@ -83,15 +83,18 @@ Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die R
 Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechts vgl. §823 1 BGB.
 Zusätzlich muss diese Rechtsgutssverletzung durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder bei einer Verkehrssicherrungspflicht. 
 Sollten sowohl  eine Verletzungshandlung als auch eine Rechtsgutsverletzung vorliegen, so ist zusätzlich sicherzustellen, dass eine Haftungsbegründende Kausalität besteht, also eine kausalität zwischen der Verletzungshandlund und der Rechtsgutsverletzung. 
-- dreistufige Prüfung der Haftungsbegründenden Kausalität hier einfügen
+Die Kausalität wird im Normfall in drei Schritten geprüft. 
+Im ersten Schritt findet die Äquivalenztheorie anwendung, welche besagt, dass eine Verletzunghandlung genau dann für eine Rechtsgutsverletzung kausal ist, wenn sie nicht hinweggedacht werden kann ohne das die Rechtsgutsverletzung entfällt. Wenn es um Unterlassen geht, verändert sich die Äquivalenztheorie dahingehend, dass eine Kausalität vorliegt, wenn der tatbestandsmäßige Erfolg nicht eintreten würde, wenn die unterlassene Handlung stattgefunden hätte, sprich wenn der Erfolg nur dann eintritt, weil die Handlung um die es geht unterlassen wurde. Dies wird in Teilen der Literatur auch als "Quasi Kausalität" bezeichent (Krafft 3.4 3.4.1 Rn 357).
+Im zweiten Schritt der Kausalitätsprüfung kommt die Adäquanztheorie zum Zuge. Diese konkretisiert die Äquivalenztheorie indem die Kausalität nur dann bejaht wird, wenn eine Handlung nach der allgemeinen Lebenserfahrung, unter normalen, nicht unwahrscheinlichen oder ungewöhnlichen Umständen den Erfolg verursachen kann. 
+Zuletzt muss beachtet werden, dass der Schädiger nur für solche Schäden haftet, die auch dem Schutzzweck der Norm entsprechen. Das bedeutet, dass konkret geprüft werden muss, ob die verletzte Norm auch tatsächlich zum Schutz der stattgefundenen Rechtsgutsverletzung gedacht ist. (Looschelders AT!!!! §45 Rn. 19.)
+
 (II)
 Wenn der objektive Tatbestand bejaht werden kann ist im nächsten Schritt notwendig, dass eine Rechtswidrigkeit vorliegt. Wie auch schon bei der Verlertzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren Schädigung durch aktives menschliches Tun und der mittelbaren Schädigung durch Unterlassen unterschieden. 
 Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normfall durch die erfüllung des objektiven Tatbestandes indiziert.
 - Rechtfertigungsgründe anführen
 Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspficht.
 
-(III) Im Anschluss ist das Verschulden sicherzustellen.
-- hier sollte u.U. noch kurz der haftungsausfüllende Tatbestand angesprochen werden
+(III) Im dritten Schritt muss die Schuld festgestellt werden, indem zuersteinmal sichergestellt wird, dass der Schädiger Schuldfähig ist. Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht #footnote[@looschelders_schuldrecht_2022 § 60 Rn. 34.] .
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
