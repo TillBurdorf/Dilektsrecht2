@@ -73,12 +73,13 @@ Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung v
 7. Haftungsausschluss
 */
 
-Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung bestehen. 
-#footnote[@looschelders_schuldrecht_2022, §59 R. 1.]
-Die Prüfung eines Schadensersatzanspruches nach § 823 1 BGB beinhaltet den Haftungsbegründenden Tatbestand, welcher bestimmt, ob eine Deliktische haftung überhaupt entsteht und dem haftungsausfüllenden Tatbestande, welcher den Umfang des zu ersetzenden Schadens bestimmt.
-Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden.
+Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss swowohl eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung als auch eine haftungsausfüllende kausalität zwischen Rechtsgutsverletzung und Schaden bestehen
+#footnote[@looschelders_schuldrecht_2022, §59 R. 1.] .
+Die Prüfung eines Schadensersatzanspruches nach § 823 1 BGB beinhaltet den Haftungsbegründenden Tatbestand, welcher bestimmt, ob eine Deliktische haftung überhaupt entsteht und den haftungsausfüllenden Tatbestand, welcher den Umfang des zu ersetzenden Schadens bestimmt.
+Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden. Bei der Prüfung des haftungsausfüllenden Tatbestandes wird (I) Schaden, (II) Kausalität und (III) Haftugsausschluss und Anspruchskürzungen geprüft. 
 
-(I)
+
+#text(weight: "bold")[(I)]
 Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechts vgl. §823 1 BGB.
 Zusätzlich muss diese Rechtsgutssverletzung durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder bei einer Verkehrssicherrungspflicht. 
 Sollten sowohl  eine Verletzungshandlung als auch eine Rechtsgutsverletzung vorliegen, so ist zusätzlich sicherzustellen, dass eine Haftungsbegründende Kausalität besteht, also eine kausalität zwischen der Verletzungshandlund und der Rechtsgutsverletzung. Davon abzugrenzen ist an dieser Stelle die Kausalität zwischen der Rechtsgutsverletzung und dem Schaden, welche erst im Rahmen des haftungsausfüllenden Tatbestandes zu prüfen ist. 
@@ -87,20 +88,24 @@ Im ersten Schritt findet die Äquivalenztheorie anwendung, welche besagt, dass e
 Im zweiten Schritt der Kausalitätsprüfung kommt die Adäquanztheorie zum Zuge. Diese konkretisiert die Äquivalenztheorie indem die Kausalität nur dann bejaht wird, wenn eine Handlung nach der allgemeinen Lebenserfahrung, unter normalen, nicht unwahrscheinlichen oder ungewöhnlichen Umständen den Erfolg verursachen kann. 
 Zuletzt muss beachtet werden, dass der Schädiger nur für solche Schäden haftet, die auch dem Schutzzweck der Norm entsprechen. Das bedeutet, dass konkret geprüft werden muss, ob die verletzte Norm auch tatsächlich zum Schutz der stattgefundenen Rechtsgutsverletzung gedacht ist. (Looschelders AT!!!! §45 Rn. 19.)
 
-(II)
+#text(weight: "bold")[(II)]
 Wenn der objektive Tatbestand bejaht werden kann ist im nächsten Schritt notwendig, dass eine Rechtswidrigkeit vorliegt. Wie auch schon bei der Verlertzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren Schädigung durch aktives menschliches Tun und der mittelbaren Schädigung durch Unterlassen unterschieden. 
 Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normfall durch die erfüllung des objektiven Tatbestandes indiziert.
 Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspficht.
 Im Rahmen der Rechtswidrigkeit sind außerdem gängige Rechtfertigungsgründe wie z.B. Notwehr, Notstand und Selbsthilfe zu berücksichtigen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 14 ff.] .
 
-(III) Im dritten Schritt muss die Schuld festgestellt werden, indem zuersteinmal sichergestellt wird, dass der Schädiger Schuldfähig ist. Als ein Beispiel unter vielen für eine nicht gegebene Schuldfähigkeit ist ein verursachter Schaden durch ein Kind unter 7 Jahren zu nennen, da dieses nicht Schuldfähig ist #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 22.] . Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht #footnote[@looschelders_schuldrecht_2022 § 60 Rn. 34.] .
+#text(weight: "bold")[(III)] 
+Im dritten Schritt muss die Schuld festgestellt werden, indem zuersteinmal sichergestellt wird, dass der Schädiger Schuldfähig ist. Als ein Beispiel unter vielen für eine nicht gegebene Schuldfähigkeit ist ein verursachter Schaden durch ein Kind unter 7 Jahren zu nennen, da dieses nicht Schuldfähig ist #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 22.] . Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht #footnote[@looschelders_schuldrecht_2022 § 60 Rn. 34.] .
 
 Im Anschluss wird im haftungsausfüllenden Tatbestand der Umfang des zu ersetzten Schaden ermittelt. Die Prüfung erfolgt hier ebenfalls in drei Schritten.
 
-(I) Schaden: 
-Der geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl Materiell als auch Immateriell sein. 
-(II) Kausalität: Wie weiter oben bereits erwähnt, muss zusätzlich zur haftungsbegründenden Kausalität zwischen Handlung und Rechtsgutverletzung auch eine haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen. Diese wird analog mittels Äquivalenztheorie, Adäquanztheorie und dem Schutzzweck der Norm geprüft.
-(III) Haftungsausschluss und Anspruchskürzungen: In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglcihkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine verjährung ist denkbar.
+#text(weight: "bold")[(I)]  Schaden: Der geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl Materiell als auch Immateriell sein. 
+
+#text(weight: "bold")[(II)]  
+ Kausalität: Wie weiter oben bereits erwähnt, muss zusätzlich zur haftungsbegründenden Kausalität zwischen Handlung und Rechtsgutverletzung auch eine haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen. Diese wird analog mittels Äquivalenztheorie, Adäquanztheorie und dem Schutzzweck der Norm geprüft.
+
+#text(weight: "bold")[(III)]
+ Haftungsausschluss und Anspruchskürzungen: In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglcihkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine verjährung ist denkbar.
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
