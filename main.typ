@@ -175,8 +175,8 @@ Die spezifische Tiergefahr ergibt sich daraus, dass Tiere über Kräfte verfüge
 Je nach dem der Schaden durch ein Nutztier oder ein Luxustier verursacht wurde, ergeben sich unterschiedliche Haftungsmodelle. Bei den Nutztieren ergibt sich eine Verschuldenshaftung mit Beweislastumkehr gem. §833 S 1&2. und für die Luxustiere eine strenge Gefährdungshaftung gem. §833 S 1.
 
 === Luxustierhaftung
-
+Für Rechtsgutsverletzungen durch Luxustiere gilt die Gefährdungshaftung und somit die Haftung aus § 833 S. 1. Wenn eine nach der Äquivalenztheorie kausale Rechtsgutsverletzung durch ein Tier verursacht wird und dabei die spezifische Tiergefahr verwirklicht ist, so entsteht Schadensersatzanspruch gegenüber dem Tierhalter.
 
 === Nutztierhaftung
 Für einen durch ein Nutztier verurachten Schaden gilt, zur vermeidung einer übermäßigen Belastung von gewerblichen Tierhalten lediglich eine Verschuldenshaftung #footnote[@looschelders_schuldrecht_2022 §68 Rn. 1.] .
-Es besteht dann eine Exkulpationsmöglichkeit (Entlastungsmöglichkeit) für den Halter, wenn er bei der Beaufsichtigung des Tieres die nötige Sorgfalt eingehalten hat oder der Schaden auch bei Einhaltung der Nötigen Sorgfalt entstanden wäre #footnote[@looschelders_schuldrecht_2022 §68 Rn. 10.] .
+Gem. § 833 S. 2 besteht dann eine Exkulpationsmöglichkeit (Entlastungsmöglichkeit) für den Halter, wenn er bei der Beaufsichtigung des Tieres die nötige Sorgfalt eingehalten hat oder der Schaden auch bei Einhaltung der Nötigen Sorgfalt entstanden wäre #footnote[@looschelders_schuldrecht_2022 §68 Rn. 10.] . Wann der Halter der nötigen Sorgfalt genügt, orientiert sich am Einzelfall #footnote[@looschelders_schuldrecht_2022 § 68 Rn. 9.] .
