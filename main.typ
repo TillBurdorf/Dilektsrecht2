@@ -96,20 +96,22 @@ Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
 Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen. Aufgrund des großen Definitionsspielraumes ergeben sich hier allerdings einige Schwierigkeiten. 
-Zum einen ist fraglich, ob die Verkehrspflichten im Rahmen des Tatbestandes oder der Rechtswidrigkeit zu prüfen sind und zum anderen in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . 
+Zum einen ist fraglich, ob die Verkehrspflichten im Rahmen des Tatbestandes oder der Rechtswidrigkeit und zum anderen in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . 
 Außerdem kanm der Begriff Verkehrssicherungspflichten missverstaneden werden, da es sich hierbei nicht allein um Pflichten im Straßenverkehr sondern vielmehr um allgemeine Sorgfaltspflichten handelt #footnote[Weber RN 127] .
 // Abgrenzung von Fahrlässigkeit und VSP mit Meinungsstreit
 In der Abgrenzung von Verkehrspflichten zur Fahrlässigkeit aus §276 II gibt es in der Literatur unterschiedliche Auffassungen darüber, ob beide das gleiche meinen, oder ob sie voneinander zu trennen sind.
 Teile der Literatur sind der Auffassung, dass für die Haftung aus §823 I sowohl die Fahrlässigkeit als auch die Verkehrspflichtverletzung erfüllt sein müssen, wobei erstere die innere und zweiteres die äußere Sorgfalt abbildet. Die äußere Sorgfalt beschreibt hierbei die Sorgfalt im Höchstmaß, wobei sich die innere auf den moderaten Standard der Sorgfalt im Verkehr beschränkt.
-Hier wird argumentiert, dass eine Verkehrspflichtsverlzung nach strengen Maßstäben zu bewerten ist als die einfache Fahrlässigkeit #footnote[@looschelders_schuldrecht_2022 §59 Rn. 12/13.] .
-In Teilen der Literatur wird dieser Ansatz verworfen und die Verkehrspflichtverletzung als anderer Name für die Sorgfaltsgebote aus § 276 II definiert. #footnote[Weber Rn 129] .
+Hier wird argumentiert, dass eine Verkehrspflichtsverlzung nach strengeren Maßstäben zu bewerten ist als die einfache Fahrlässigkeit #footnote[@looschelders_schuldrecht_2022 §59 Rn. 12/13.] .
+In anderen Teilen der Literatur wird dieser Ansatz verworfen und die Verkehrspflichtverletzung als anderer Name für die Sorgfaltsgebote aus § 276 II definiert. #footnote[Weber Rn 129] .
 
-Desweiteren ergeben sich durch die Verkehrspflichten Unterschiede im Schadenersatzanspruch asu § 823 If BGB.
+Desweiteren ergeben sich durch die Verkehrspflichten Unterschiede im Schadenersatzanspruch aus § 823 If BGB.
 Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
 Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
 Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 Bei diesen Fallgruppen muss geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
-Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 3.] . Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. (z.B. bei der Missachtung einer Verkehrssicherungspflicht) #footnote[NOCH RICHTIG MACHEN https://ruessmann.jura.uni-saarland.de/bvr2006/Vorlesung/unrechtskonzeption.htm] . Bei mittelbaren Rechtsgutsverletzungen ergibt sich auch eine Veränderte Situation in der Prüfung der Schuld. Hier wird zwischen der Verletzung der äußeren und der inneren Sorgfalt unterschieden.
+Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 3.] . Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. (z.B. bei der Missachtung einer Verkehrssicherungspflicht) #footnote[NOCH RICHTIG MACHEN https://ruessmann.jura.uni-saarland.de/bvr2006/Vorlesung/unrechtskonzeption.htm] . Die Prüfung der Verkehrspflichten auf der Tatbestandesebene ermöglicht es in der Prüfung des § 823 I weiterhin eine Indizierung der Rechtswidrigkeit aus dem erfüllten Tatbestand ableoten zu können, wohingegegen sich das Prüdungsschema bei einer Prüdung innerhalb der Rechtswiedrigkeit ändert #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 5.] .
+
+
 == Funktion der Verkehrssicherrungspflichten
 Adäquanztheorie lässt einen großen Rahmen an Schuldigen -> Verkehrspflichten grenzen das ein 
 Wenn eingrenzung möglich ist die rechtswidrigkeit indiziert
