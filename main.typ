@@ -109,7 +109,9 @@ Im Anschluss wird im haftungsausfüllenden Tatbestand der Umfang des zu ersetzte
 
 = Grundlagen der Verkehrssicherungspflichten
 == Begriff und Einordnung
-Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen, damit Gefahren für dritte möglichst vermieden werden. Der Begriff Verkehrssicherrungspflichten kann hier missverstädnlich sein, da es keineswegs nur um Sicherungspflichten im Straßenverkehr geht, sondern vielmehr um allgemeine Sorgfaltspflichten und Verhaltensgebote #footnote[Weber RN 127] . Trotz dieses einfachen und nachvollziehbaren Grundsatzes ergeben sich im Hinblick auf die Verkehrssicherungspfichten allerdings einige rechtliche schwierigkeiten und Besonderheiten die einem besonderen Blick bedürfen. 
+Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen, damit Gefahren für dritte möglichst vermieden werden. 
+Sie ermöglichen auch insbesondere im Bezug auf die Kausalität die große Zahl der möglichen Schuldigen, die sich anhand der Adäquanztheorie ergeben durch Verhaltensgebote weiter einzugrenzen.
+Der Begriff Verkehrssicherrungspflichten kann hier missverstädnlich sein, da es keineswegs nur um Sicherungspflichten im Straßenverkehr geht, sondern vielmehr um allgemeine Sorgfaltspflichten und Verhaltensgebote #footnote[Weber RN 127] . Trotz dieses einfachen und nachvollziehbaren Grundsatzes ergeben sich im Hinblick auf die Verkehrssicherungspfichten allerdings einige rechtliche schwierigkeiten und Besonderheiten die einem besonderen Blick bedürfen. 
 Dabei ist bereits fraglich im Rahmen welches Schrittes der oben erläuterten Prüfung des § 823 1 diese zu verorten sind. Teile der Literatur arguemntieren hier für eine Prüfung im Rahmen des Tatbestandes, andere für eine Prüfung im Rahmen der Rechtswidrigkeit.
 Desweiteren bestehen unterschiedliche Auffassungen darüber, in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . 
 // Abgrenzung von Fahrlässigkeit und VSP mit Meinungsstreit
@@ -124,11 +126,6 @@ Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gez
 Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 Bei diesen Fallgruppen muss geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
 Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 3.] . Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. (z.B. bei der Missachtung einer Verkehrssicherungspflicht) #footnote[NOCH RICHTIG MACHEN https://ruessmann.jura.uni-saarland.de/bvr2006/Vorlesung/unrechtskonzeption.htm] . Die Prüfung der Verkehrspflichten auf der Tatbestandesebene ermöglicht es in der Prüfung des § 823 I weiterhin eine Indizierung der Rechtswidrigkeit aus dem erfüllten Tatbestand ableoten zu können, wohingegegen sich das Prüdungsschema bei einer Prüdung innerhalb der Rechtswiedrigkeit ändert #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 5.] .
-
-
-== Funktion der Verkehrssicherrungspflichten
-Adäquanztheorie lässt einen großen Rahmen an Schuldigen -> Verkehrspflichten grenzen das ein 
-Wenn eingrenzung möglich ist die rechtswidrigkeit indiziert
 
 == Vorraussetzungen der Verkehrssicherungspflichten
 Die konkrete Definition der Verkehrspflichten geht nicht direkt aus dem Gesetztestext hervor, allerdings erfolgt die Definition in der Literatur und der ständigen Rechtssprechung. 
@@ -154,10 +151,11 @@ Nach übereinstimmender Meinung der Literatur liegt hier Wertungsrecht ohne eine
 #emph(text(red)[muss noch weiter spezifiziert werden ])
 
 === Wann hat man einen Schadensersatzanspruch aus einer Verkehrssicherungspflicht
-Nach der ständigen Rechtssprechung gilt, dass eine nicht beachtete Verkehrssicherungspflicht genau dann haftungsbegründend ist, wenn sich die naheliegende Möglichkeit ergibt, dass andere dabei zu Schaden kommen bzw das dabei Rechtsgüter anderer verletzt werden. So muss nicht jede abstrakte Gefahr bedacht und ausgeschlossen werden, sondern es sind Maßnahmen zu ergreifen die eine Schädigung in zumutbarer und vernünftiger Weise abwenden. #footnote[@BGH2014 Rn. 9.]
+Nach der ständigen Rechtssprechung gilt, dass eine nicht beachtete Verkehrssicherungspflicht genau dann haftungsbegründend ist, wenn sich die naheliegende Möglichkeit ergibt, dass andere dabei zu Schaden kommen bzw das dabei Rechtsgüter anderer verletzt werden. So muss nicht jede abstrakte Gefahr bedacht und ausgeschlossen werden, sondern es sind Maßnahmen zu ergreifen die eine Schädigung in zumutbarer und vernünftiger Weise abwenden. #footnote[@BGH2014 Rn. 9.] .
+Der Schadensersatzanspruch aus § 823 1 BGB erfolgt nach dem Schema aus Abschnitt 2 mit der zusätzlichen Prüfung einer verletzten Verkehrssicherrungspflicht.
+
 == VSP im Gesetz 
 BGB 831- 838
-
 
 
 //------------------------------------------------------------------
