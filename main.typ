@@ -61,37 +61,24 @@ Aus den in §823 1 BGB geregelten Grundsätzen zu Schadenersatzansprüchen werde
 Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Vorraussetzung von Verkehrssicherungspflichten und wann man ihnen genügt bzw wann aus ihnen ein Schadensersatzanspruch aus § 823 1 BGB entsteht. Zusätzlich wird die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
 
 = Schadensersatzanspruch gem. §823 1 BGB
-
-/*
-- nach Looschelders Schuldrecht Besonderer Teil
-1. Rechtsgutsverletzung
-2. Pflichtwidrige Handlung oder Unterlassung
-3. Haftungsbegründende Kausalität
-4. Rechtswidrigkeit
-5. Verschulden
-6. Schaden und haftungsausfüllende Kausalität
-7. Haftungsausschluss
-*/
-
-Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss swowohl eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung als auch eine haftungsausfüllende kausalität zwischen Rechtsgutsverletzung und Schaden bestehen
+Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss sowohl eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung als auch eine haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen
 #footnote[@looschelders_schuldrecht_2022, §59 R. 1.] .
-Die Prüfung eines Schadensersatzanspruches nach § 823 1 BGB beinhaltet den Haftungsbegründenden Tatbestand, welcher bestimmt, ob eine Deliktische haftung überhaupt entsteht und den haftungsausfüllenden Tatbestand, welcher den Umfang des zu ersetzenden Schadens bestimmt.
-Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden. Bei der Prüfung des haftungsausfüllenden Tatbestandes wird (I) Schaden, (II) Kausalität und (III) Haftugsausschluss und Anspruchskürzungen geprüft. 
-
+Die Prüfung eines Schadensersatzanspruches nach § 823 1 BGB beinhaltet den Haftungsbegründenden sowie den haftungsausfüllenden Tatbestand #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 2] .
+Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden. Bei der Prüfung des haftungsausfüllenden Tatbestandes wird (I) Schaden, (II) Kausalität und (III) Haftugsausschluss und Anspruchskürzungen geprüft #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 1] . 
 
 #text(weight: "bold")[(I)]
-Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechts vgl. §823 1 BGB.
-Zusätzlich muss diese Rechtsgutssverletzung durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder bei einer Verkehrssicherrungspflicht. 
+Die Prüfung des objektiven Tatbestandes lässt sich in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, dass heißt die verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechts (vgl. §823 1 BGB).
+Zusätzlich muss diese Rechtsgutssverletzung durch eine Verletzungshanldung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen. An dieser Stelle werden die Verkehrssicherrungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshanldung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder bei einer Verkehrssicherrungspflicht #footnote[] . 
 Sollten sowohl  eine Verletzungshandlung als auch eine Rechtsgutsverletzung vorliegen, so ist zusätzlich sicherzustellen, dass eine Haftungsbegründende Kausalität besteht, also eine kausalität zwischen der Verletzungshandlund und der Rechtsgutsverletzung. Davon abzugrenzen ist an dieser Stelle die Kausalität zwischen der Rechtsgutsverletzung und dem Schaden, welche erst im Rahmen des haftungsausfüllenden Tatbestandes zu prüfen ist. 
-Die Kausalität wird im Normfall in drei Schritten geprüft. 
-Im ersten Schritt findet die Äquivalenztheorie anwendung, welche besagt, dass eine Verletzunghandlung genau dann für eine Rechtsgutsverletzung kausal ist, wenn sie nicht hinweggedacht werden kann ohne das die Rechtsgutsverletzung entfällt. Wenn es um Unterlassen geht, verändert sich die Äquivalenztheorie dahingehend, dass eine Kausalität vorliegt, wenn der tatbestandsmäßige Erfolg nicht eintreten würde, wenn die unterlassene Handlung stattgefunden hätte, sprich wenn der Erfolg nur dann eintritt, weil die Handlung um die es geht unterlassen wurde. Dies wird in Teilen der Literatur auch als "Quasi Kausalität" bezeichent (Krafft 3.4 3.4.1 Rn 357).
-Im zweiten Schritt der Kausalitätsprüfung kommt die Adäquanztheorie zum Zuge. Diese konkretisiert die Äquivalenztheorie indem die Kausalität nur dann bejaht wird, wenn eine Handlung nach der allgemeinen Lebenserfahrung, unter normalen, nicht unwahrscheinlichen oder ungewöhnlichen Umständen den Erfolg verursachen kann. 
-Zuletzt muss beachtet werden, dass der Schädiger nur für solche Schäden haftet, die auch dem Schutzzweck der Norm entsprechen. Das bedeutet, dass konkret geprüft werden muss, ob die verletzte Norm auch tatsächlich zum Schutz der stattgefundenen Rechtsgutsverletzung gedacht ist. (Looschelders AT!!!! §45 Rn. 19.)
+Die Kausalität wird im Normfall in drei Schritten geprüft #footnote[] . 
+Im ersten Schritt findet die Äquivalenztheorie anwendung, welche besagt, dass eine Verletzunghandlung genau dann für eine Rechtsgutsverletzung kausal ist, wenn sie nicht hinweggedacht werden kann ohne das die Rechtsgutsverletzung entfällt. Wenn es um Unterlassen geht, verändert sich die Äquivalenztheorie dahingehend, dass eine Kausalität vorliegt, wenn der tatbestandsmäßige Erfolg nicht eintreten würde, wenn die unterlassene Handlung stattgefunden hätte, sprich wenn der Erfolg nur dann eintritt, weil die Handlung um die es geht unterlassen wurde. Dies wird in Teilen der Literatur auch als "Quasi Kausalität" bezeichent #footnote[(Krafft 3.4 3.4.1 Rn 357)] .
+Im zweiten Schritt der Kausalitätsprüfung kommt die Adäquanztheorie zum Zuge. Diese konkretisiert die Äquivalenztheorie indem die Kausalität nur dann bejaht wird, wenn eine Handlung nach der allgemeinen Lebenserfahrung, unter normalen, nicht unwahrscheinlichen oder ungewöhnlichen Umständen den Erfolg verursachen kann #footnote[] . 
+Zuletzt muss beachtet werden, dass der Schädiger nur für solche Schäden haftet, die auch dem Schutzzweck der Norm entsprechen. Das bedeutet, dass konkret geprüft werden muss, ob die verletzte Norm auch tatsächlich zum Schutz der stattgefundenen Rechtsgutsverletzung gedacht ist #footnote[looschelders at §45 Rn. 19.] .
 
 #text(weight: "bold")[(II)]
-Wenn der objektive Tatbestand bejaht werden kann ist im nächsten Schritt notwendig, dass eine Rechtswidrigkeit vorliegt. Wie auch schon bei der Verlertzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren Schädigung durch aktives menschliches Tun und der mittelbaren Schädigung durch Unterlassen unterschieden. 
+Wenn der objektive Tatbestand bejaht werden kann ist im nächsten Schritt notwendig, dass eine Rechtswidrigkeit vorliegt. Wie auch schon bei der Verlertzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren Schädigung durch aktives menschliches Tun und der mittelbaren Schädigung durch Unterlassen unterschieden #footnote[] . 
 Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normfall durch die erfüllung des objektiven Tatbestandes indiziert.
-Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspficht.
+Im Gegensatz dazu, wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspficht #footnote[@looschelders_schuldrecht_2022 §59 Rn. 3.] .
 Im Rahmen der Rechtswidrigkeit sind außerdem gängige Rechtfertigungsgründe wie z.B. Notwehr, Notstand und Selbsthilfe zu berücksichtigen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 14 ff.] .
 
 #text(weight: "bold")[(III)] 
@@ -102,49 +89,46 @@ Im Anschluss wird im haftungsausfüllenden Tatbestand der Umfang des zu ersetzte
 #text(weight: "bold")[(I)]  Schaden: Der geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl Materiell als auch Immateriell sein. 
 
 #text(weight: "bold")[(II)]  
- Kausalität: Wie weiter oben bereits erwähnt, muss zusätzlich zur haftungsbegründenden Kausalität zwischen Handlung und Rechtsgutverletzung auch eine haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen. Diese wird analog mittels Äquivalenztheorie, Adäquanztheorie und dem Schutzzweck der Norm geprüft.
+ Kausalität: Wie weiter oben bereits erwähnt, muss zusätzlich zur haftungsbegründenden Kausalität zwischen Handlung und Rechtsgutverletzung auch eine haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen #footnote[] . Diese wird analog mittels Äquivalenztheorie, Adäquanztheorie und dem Schutzzweck der Norm geprüft.
 
 #text(weight: "bold")[(III)]
- Haftungsausschluss und Anspruchskürzungen: In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglcihkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine verjährung ist denkbar.
+ Haftungsausschluss und Anspruchskürzungen: In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglichkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine verjährung ist denkbar.
 
 = Grundlagen der Verkehrssicherungspflichten
-== Begriff und Einordnung
-Der Grundgedanke hinter den Verkehrssicherungspflichten besteht darin, dass diejenige Person, die eine Gefahrenquelle schafft, unterhält oder auf diese einwirkt auch dafür verantwortlich ist, für die nötige Sicherheit zu sorgen, damit Gefahren für dritte möglichst vermieden werden. 
-Sie ermöglichen auch insbesondere im Bezug auf die Kausalität die große Zahl der möglichen Schuldigen, die sich anhand der Adäquanztheorie ergeben durch Verhaltensgebote weiter einzugrenzen.
-Der Begriff Verkehrssicherrungspflichten kann hier missverstädnlich sein, da es keineswegs nur um Sicherungspflichten im Straßenverkehr geht, sondern vielmehr um allgemeine Sorgfaltspflichten und Verhaltensgebote #footnote[Weber RN 127] . Trotz dieses einfachen und nachvollziehbaren Grundsatzes ergeben sich im Hinblick auf die Verkehrssicherungspfichten allerdings einige rechtliche schwierigkeiten und Besonderheiten die einem besonderen Blick bedürfen. 
-Dabei ist bereits fraglich im Rahmen welches Schrittes der oben erläuterten Prüfung des § 823 1 diese zu verorten sind. Teile der Literatur arguemntieren hier für eine Prüfung im Rahmen des Tatbestandes, andere für eine Prüfung im Rahmen der Rechtswidrigkeit.
-Desweiteren bestehen unterschiedliche Auffassungen darüber, in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . 
-// Abgrenzung von Fahrlässigkeit und VSP mit Meinungsstreit
-In der Abgrenzung von Verkehrspflichten zur Fahrlässigkeit aus §276 II gibt es in der Literatur unterschiedliche Auffassungen darüber, ob beide das gleiche meinen, oder ob sie voneinander zu trennen sind.
-Teile der Literatur sind der Auffassung, dass für die Haftung aus §823 I sowohl die Fahrlässigkeit als auch die Verkehrspflichtverletzung erfüllt sein müssen, wobei erstere die innere und zweiteres die äußere Sorgfalt abbildet. Die äußere Sorgfalt beschreibt hierbei die Sorgfalt im Höchstmaß, wobei sich die innere auf den moderaten Standard der Sorgfalt im Verkehr beschränkt.
-Hier wird argumentiert, dass eine Verkehrspflichtsverlzung nach strengeren Maßstäben zu bewerten ist als die einfache Fahrlässigkeit #footnote[@looschelders_schuldrecht_2022 §59 Rn. 12/13.] .
-In anderen Teilen der Literatur wird dieser Ansatz verworfen und die Verkehrspflichtverletzung als anderer Name für die Sorgfaltsgebote aus § 276 II definiert. #footnote[Weber Rn 129] .
+Dieser Abschnitt behandelt die rechtlichen Rahmenbedingungen der Verkehrssicherungspflicht, insbesondere deren Entstehung, die Voraussetzungen für das Genügen sowie die möglichen Schadensersatzansprüche bei einer Verletzung dieser Pflichten gem. § 823 1 BGB.
 
-Desweiteren ergeben sich durch die Verkehrspflichten Unterschiede im Schadenersatzanspruch aus § 823 If BGB.
-Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
-Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
-Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
-Bei diesen Fallgruppen muss geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
-Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 3.] . Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. (z.B. bei der Missachtung einer Verkehrssicherungspflicht) #footnote[NOCH RICHTIG MACHEN https://ruessmann.jura.uni-saarland.de/bvr2006/Vorlesung/unrechtskonzeption.htm] . Die Prüfung der Verkehrspflichten auf der Tatbestandesebene ermöglicht es in der Prüfung des § 823 I weiterhin eine Indizierung der Rechtswidrigkeit aus dem erfüllten Tatbestand ableoten zu können, wohingegegen sich das Prüdungsschema bei einer Prüdung innerhalb der Rechtswiedrigkeit ändert #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 5.] .
-
-== Vorraussetzungen der Verkehrssicherungspflichten
+== Begriff unf Einordnung
 Die konkrete Definition der Verkehrspflichten geht nicht direkt aus dem Gesetztestext hervor, allerdings erfolgt die Definition in der Literatur und der ständigen Rechtssprechung. 
-Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft. Daraus ergibt die verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[@BGH2014 Rn. 8.]
+Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft, unterhält oder auf diese Einwirkt. Daraus ergibt die Verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[@BGH2014 Rn. 8.]
 Die Verantwortlichkeit für eine Gefahrenquelle liegt somit bei der Person, die die Herrschaft über die Gefahrenquelle hat. #footnote[@krafft_kommunales_2016 Einführung Rn. 1.]
 Die Verantwortung ergibt sich aus dem Vertrauensgedanken #footnote[@krafft_kommunales_2016 Einführung Rn. 1.], dass ein Gefahrenbereich nur dann für dritte zugänglich gemacht wird, wenn die notwenigen maßnahmen zur Schadensvermeidung getroffen wurden. 
 Außerdem kann auch schon das teilnehmen und damit einhergehende einwirken auf einen bereits bestehenden Verkehr zu einer Verkehrspflicht führen. QUELLE!
 Das ergibt sich aus dem Gedanke des Vertrauensschutzes #footnote[@looschelders_schuldrecht_2022 §59 Rn. 6.] .
 
+== Vorraussetzungen für Verkehrspflichten
+Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen #footnote[Krafft Rn 55] . Außerdem muss die Möglichkeit bestehen, dass ein dritter dieser Gefahr auch tatsächlich ausgesetzt wird. Dies Entsteht im Normalfall durch die Verlehrseröffnung #footnote[Krafft Rn 66.] .
+Sollte das Vorliegen einer Gefahr gegeben sein, ist nach wie vor zu klären in welchem Umfang die Verkehrssicherungspflichten bestehen. Hierzu gibt es keine konkreten Regelungen im Gesetz, weswegen sich auf die gängige Rechtssprechung berufen werden muss. Der BGH bewertet den Umfang dieser an der Erforderlichkeit von Maßnahmen, der Zumutbarkeit für den Verpflichteten und den berechtigten Sicherheitserwartungen des Verkehrs, welche sich am Unfang der Verkehrseröffnung und somit daran für wen und wo der Verkehr eröffnet wird orientiert #footnote[Krafft Rn 55] .
+Die Erforderlichkeit zeichnet sich dadurch aus, dass eine Haftung dann entfällt, wenn der Benutzer die Gefahr erkennen und ihr ohne schwierigkeiten ausweichen kann #footnote[Krafft Rn 59] .
 
-- basiert auf Kraft Rn 52 und so weiter 
-Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen. Sollte das Vorliegen einer Gefahr gegeben sein, ist nach wie vor zu klären in welchem Umfang die Verkehrssicherungspflichten bestehen. Hierzu gibt es keine konkreten Regelungen im Gesetz, weswegen sich auf die gängige Rechtssprechung berufen werden muss. Der BGH bewertet den Umfang dieser an der Erforderlichkeit von Maßnahmen, der Zumutbarkeit für den Verpflichteten und den berechtigten Sicherheitserwartungen des Verkehrs. 
+Um die Verkehrspflichten weiter zu konkretisieren, kann man grob zwischen drei Fallgruppen unterscheiden.
 
+#text(weight: "bold")[Herrschaft über eine Gefahrenquelle:]
+In dieser Fallgruppe entsteht die Sicherungspflicht durch die Herrschaft über einen Bereich oder eine Sache. Beispiele hier sind die Streupflicht, der Schutz vor umstürzenden Bäumen usw. (vgl § 833, § 836-838 BGB). Teilweise sind diese Pflichten sogar gesetzlich ausgestaltet und ergeben somit keinen Anspruch aus § 823 1 BGB sondern aus der entsprechenden gesetzlichen Norm #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 7.] .
 
-=== Wann genügt man einer Verkehrssicherungspflicht
+#text(weight: "bold")[Ausübung einer gefährlichen Tätigkeit:]
+Die zweite Fallgruppe betrifft die Verkehrssicherungspflicht bei gefährlichen Tätigkeiten oder Berufen, wobei Akteure wie Reiseveranstalter, Hersteller oder Konzertveranstalter sicherstellen müssen, dass ihre Tätigkeit keine Schäden für Dritte verursacht #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 8.] .
+
+#text(weight: "bold")[Vorangegangenes gefährliches Tun:]
+Die dritte Fallgruppe betrifft die Verkehrssicherungspflicht nach einem vorangegangenen gefährlichen Tun, sodass derjenige, der eine Gefahrenquelle schafft, geeignete Schutzmaßnahmen ergreifen muss, unabhängig davon, ob er sie noch beherrscht und sogar unabhängig davon, ob die Schaffung pflichtwidrig war #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 9.]
+
+== Wann genügt man einer Verkehrssicherungspflicht
 Um der Verkehrssicherungspflicht zu genügen ist es notwendig diejenigen Maßnahmen zu ergreifen, "die ein umsichtiger und verständiger, in vernünftigen Grenzen vorsichtiger Mensch für notwendig und ausreichend hält". #emph(text(red)[BGH Urteil 299/13]) bzw "alle nach Lage der Verhältnisse erforderlichen Sicherungsmaßnahmen zum Schutz anderer Personen zu treffen"(Fikentscher §107 III b 1592). Bei Gefahren, die im Rahmen der Berufs oder Gewerbeausübung auftreten, wird hingegen von der "Sichtweise eines verständigen, umsichtigen, vorsichtigen und gewissenhaften Angehörigen der betreffenden Berufsgruppe" gesprochen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 10.] .
 Man genügt einer Verkehrspflicht somit, indem man einen Sicherheitsgrad erreicht, der entsprechend der im jeweiligen Bereich entsprechenden Verkehrsauffassung entsprechend ist. #footnote[@BGH2014 Rn. 9.]
 Der Umfang der Maßnahmen die notwendig sind um einer Verkehrspflicht zu genügen ist somit schwer abstrakt festzulegen und beinhaltet einen großen Definitionsspielraum.
-Nach (Krafft, 2016) ergeben sich drei Kriterien, anhand derer eine annäherende objektivierung an die Anforderungen einer Verkehrspflicht möglich ist. Es gilt, dass der Umfang der Anforderungen von der schwere der drohenden Rechtsgutsverletzung, der Wahrscheinlichkeit des Schadenseintritts und der Größe des Aufwandes der Maßnahmen maßgeblich dafür ist, wann man seiner Pflicht genügt. #footnote[@krafft_kommunales_2016 Einführung Rn. 4.]
+Nach (Krafft, 2016) ergeben sich drei Kriterien, anhand derer eine annäherende objektivierung an die Anforderungen einer Verkehrspflicht möglich ist. Es gilt, dass der Umfang der Anforderungen von der schwere der drohenden Rechtsgutsverletzung, der Wahrscheinlichkeit des Schadenseintritts und der Größe des Aufwandes der Maßnahmen maßgeblich dafür ist, wann man seiner Pflicht genügt #footnote[@krafft_kommunales_2016 Einführung Rn. 4.] .
+Zudem müssen die Maßnahmen die getroffen werden allgemein und wirtschaftlich zumutbar sein. Die Maßnahmen sind dann zumutbar, wenn sie im  Verhältnis zum erstrebten Gefahrabwendungserfolg stehen #footnote[Krafft Rn 61] . Hier wird auch die finanzielle Situation des Verkehrspflichtigen einbezogen, was allerdings keine völlige Pflichtbefreiung durch fehlende finanzielle Leistungsfähigkeit bedeutet #footnote[Krafft Rn 63] .
+Desweiteren bestehen Sicherungspflichten nicht ausschließlich für den Bereich des eröffneten Verkehres, sondern auch für außerhalb liegende Gefahren, wenn diese in einem inneren Zusammenhang zum Verkehr stehen #footnote[Krafft Rn 70] . 
+Sollten jegliche Maßnahmen zur Sicherung nicht in den Bereich der Zumutbarkeit fallen, ergibt sich die Hinweis oder Warnpflicht, die z.B. durch das Aufstellen von Schildern verwirklicht werden kann #footnote[Krafft Rn 74] . 
 Nach übereinstimmender Meinung der Literatur liegt hier Wertungsrecht ohne eine vollkommende Rechtssicherheit vor. #footnote[@krafft_kommunales_2016 Einführung Rn. 6.]#emph(text(red)[Übereinstimmende Meinung der Literatur erfordert hier weitere Quellen])
 
 
@@ -156,6 +140,21 @@ Der Schadensersatzanspruch aus § 823 1 BGB erfolgt nach dem Schema aus Abschnit
 
 == VSP im Gesetz 
 BGB 831- 838
+
+== Begriff und Besonderheiten 
+Bereits der Begriff Verkehrssicherrungspflichten kann missverstädnlich sein, da es keineswegs nur um Sicherungspflichten im Straßenverkehr geht, sondern vielmehr um allgemeine Sorgfaltspflichten und Verhaltensgebote #footnote[Weber RN 127] . Trotz dieses einfachen und nachvollziehbaren Grundsatzes ergeben sich im Hinblick auf die Verkehrssicherungspfichten allerdings einige rechtliche schwierigkeiten und Besonderheiten die einem besonderen Blick erfordern. 
+Dabei ist bereits fraglich im Rahmen welches Schrittes der oben erläuterten Prüfung des § 823 1 diese zu verorten sind. Teile der Literatur arguementieren hier für eine Prüfung im Rahmen des Tatbestandes, andere für eine Prüfung im Rahmen der Rechtswidrigkeit.
+Desweiteren bestehen unterschiedliche Auffassungen darüber, in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen #footnote[weber noch einfügen(4. Verkehrspflcihten Rn 124)] . Hier stellt sich die Frage, ob eine Verkehrspflichtverletzung dasselbe wie die Fahrlässigkeit darstellt, oder ob diese beiden zu Unterscheiden sind. 
+Teile der Literatur sind der Auffassung, dass für die Haftung aus §823 I sowohl die Fahrlässigkeit als auch die Verkehrspflichtverletzung erfüllt sein müssen, wobei erstere die innere und zweiteres die äußere Sorgfalt abbildet. Die äußere Sorgfalt beschreibt hierbei die Sorgfalt im Höchstmaß, wobei sich die innere auf den moderaten Standard der Sorgfalt im Verkehr beschränkt.
+Es wird argumentiert, dass eine Verkehrspflichtsverlzung nach strengeren Maßstäben zu bewerten ist als die einfache Fahrlässigkeit #footnote[@looschelders_schuldrecht_2022 §59 Rn. 12/13.] .
+In anderen Teilen der Literatur wird dieser Ansatz verworfen und die Verkehrspflichtverletzung als anderer Name für die Sorgfaltsgebote aus § 276 II definiert. #footnote[Weber Rn 129] .
+
+Desweiteren ergeben sich durch die Verkehrspflichten Unterschiede im Schadenersatzanspruch aus § 823 I BGB.
+Wie oben erläutert, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
+Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
+Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
+Bei diesen Fallgruppen muss geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022 §59 Rn 3.]
+Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 3.] . Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. (z.B. bei der Missachtung einer Verkehrssicherungspflicht) #footnote[NOCH RICHTIG MACHEN https://ruessmann.jura.uni-saarland.de/bvr2006/Vorlesung/unrechtskonzeption.htm] . Die Prüfung der Verkehrspflichten auf der Tatbestandesebene ermöglicht es in der Prüfung des § 823 I weiterhin eine Indizierung der Rechtswidrigkeit aus dem erfüllten Tatbestand ableoten zu können, wohingegegen sich das Prüfungsschema bei einer Prüdung innerhalb der Rechtswiedrigkeit ändert #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 5.] .
 
 
 //------------------------------------------------------------------
