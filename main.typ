@@ -84,14 +84,11 @@ Im Gegensatz dazu wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht 
 Im Rahmen der Rechtswidrigkeit sind außerdem gängige Rechtfertigungsgründe wie z.B. Notwehr, Notstand, Selbsthilfe, Einwilligung und Meinungs bzw Pressefreiehit zu berücksichtigen #footnote[@sakowski_grundlagen_2020, 4.4.3.] .
 
 #text(weight: "bold")[(III)] 
-Im dritten Schritt muss die Schuld festgestellt werden, indem zuerst einmal sichergestellt wird, dass der Schädiger schuldfähig ist. Als ein Beispiel unter vielen für eine nicht gegebene Schuldfähigkeit ist ein verursachter Schaden durch ein Kind unter 7 Jahren zu nennen. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 22.] . Hinsichtlich der Verschuldsfähigkeit sollten § 827, § 828 & § 829 BGB geprüft werden. Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im Vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht #footnote[@looschelders_schuldrecht_2022, § 60 Rn 34.] .
+Im dritten Schritt muss die Schuld festgestellt werden, indem zuerst einmal sichergestellt wird, dass der Schädiger schuldfähig ist. Als ein Beispiel unter vielen für eine nicht gegebene Schuldfähigkeit ist ein verursachter Schaden durch ein Kind unter 7 Jahren zu nennen #footnote[@looschelders_schuldrecht_2022, § 59 Rn 22.] . Hinsichtlich der Verschuldsfähigkeit sollten § 827, § 828 & § 829 BGB geprüft werden. Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im Vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht #footnote[@looschelders_schuldrecht_2022, § 60 Rn 34.] .
 
-//-----
-//-----
-//-----
-// abhier quellen ergänzen!!!
-// 
+
 Im Anschluss wird im Haftungsausfüllenden Tatbestand der Umfang den zu ersetzten Schaden ermittelt. Die Prüfung erfolgt hier ebenfalls in drei Schritten.
+
 #text(weight: "bold")[(I)] Schaden: Der geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl Materiell als auch Immateriell sein #footnote[@looschelders_schuldrecht_2022, § 60 Rn 36.] .
 
 #text(weight: "bold")[(II)]
