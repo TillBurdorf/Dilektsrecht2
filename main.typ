@@ -82,21 +82,22 @@ Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normfall durch 
 Im Gegensatz dazu wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verhaltensnorm oder Verkehrssicherungspflicht #footnote[@looschelders_schuldrecht_2022 §59 Rn. 3.] .
 Im Rahmen der Rechtswidrigkeit sind außerdem gängige Rechtfertigungsgründe wie z.B. Notwehr, Notstand, Selbsthilfe, Einwilligung und Meinungs bzw Pressefreiehit zu berücksichtigen #footnote[@sakowski_grundlagen_2020 4.4.3.] .
 
+#text(weight: "bold")[(III)] 
+Im dritten Schritt muss die Schuld festgestellt werden, indem zuerst einmal sichergestellt wird, dass der Schädiger schuldfähig ist. Als ein Beispiel unter vielen für eine nicht gegebene Schuldfähigkeit ist ein verursachter Schaden durch ein Kind unter 7 Jahren zu nennen. #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 22.] . Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im Vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht #footnote[@looschelders_schuldrecht_2022 § 60 Rn. 34.] .
+
 //-----
 //-----
 //-----
 // abhier quellen ergänzen!!!
-#text(weight: "bold")[(III)] 
-Im dritten Schritt muss die Schuld festgestellt werden, indem zuerst einmal sichergestellt wird, dass der Schädiger schuldfähig ist. Als ein Beispiel unter vielen für eine nicht gegebene Schuldfähigkeit ist ein verursachter Schaden durch ein Kind unter 7 Jahren zu nennen, da dieses nicht schuldfähig ist #footnote[@looschelders_schuldrecht_2022 § 59 Rn. 22.] . Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im Vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht #footnote[@looschelders_schuldrecht_2022 § 60 Rn. 34.] .
-
+// 
 Im Anschluss wird im Haftungsausfüllenden Tatbestand der Umfang den zu ersetzten Schaden ermittelt. Die Prüfung erfolgt hier ebenfalls in drei Schritten.
-#text(weight: "bold")[(I)] Schaden: Der geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl Materiell als auch Immateriell sein.
+#text(weight: "bold")[(I)] Schaden: Der geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl Materiell als auch Immateriell sein #footnote[] .
 
 #text(weight: "bold")[(II)]
 Kausalität: Wie weiter oben bereits erwähnt, muss zusätzlich zur haftungsbegründenden Kausalität zwischen Handlung und Rechtsgutsverletzung auch eine Haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen #footnote[] . Diese wird analog mittels Äquivalenztheorie, Adäquanztheorie und dem Schutzzweck der Norm geprüft.
 
 #text(weight: "bold")[(III)]
-Haftungsausschluss und Anspruchskürzungen: In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglichkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine Verjährung ist denkbar.
+Haftungsausschluss und Anspruchskürzungen: In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglichkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine Verjährung ist denkbar #footnote[] .
 
 = Grundlagen der Verkehrssicherungspflichten
 Dieser Abschnitt behandelt die rechtlichen Rahmenbedingungen der Verkehrssicherungspflichten, insbesondere deren Entstehung, die Voraussetzungen für das Genügen sowie die möglichen Schadensersatzansprüche bei einer Verletzung dieser Pflichten gem. § 823 1 BGB.
@@ -104,12 +105,12 @@ Dieser Abschnitt behandelt die rechtlichen Rahmenbedingungen der Verkehrssicheru
 == Begriff unf Einordnung
 Die konkrete Definition der Verkehrspflichten geht nicht direkt aus dem Gesetztestext hervor, allerdings erfolgt die Definition in der Literatur und der ständigen Rechtssprechung. 
 Eine Verkehrssicherungspflicht entsteht immer dann wenn jemand eine Gefahrenlage jeglicher Art schafft, unterhält oder auf diese Einwirkt. Daraus ergibt sich die Verpflichtung die "notwendigen und zumutbaren" Maßnahmen zu ergreifen, damit aus der Gefahrenlage kein Schaden für dritte entsteht. #footnote[BGH Urteil Rn. 8.]
-Die Verantwortlichkeit für eine Gefahrenquelle liegt somit bei der Person, die die Herrschaft über die Gefahrenquelle hat #footnote[@krafft_kommunales_2016 Einführung Rn. 1.]
-und ergibt sich aus dem Vertrauensgedanken #footnote[@krafft_kommunales_2016 Einführung Rn. 1.], dass ein Gefahrenbereich nur dann für dritte zugänglich gemacht wird, wenn die notwenigen Maßnahmen zur Schadensvermeidung getroffen wurden. 
+Die Verantwortlichkeit für eine Gefahrenquelle liegt somit bei der Person, die die Herrschaft über die Gefahrenquelle hat #footnote[@krafft_kommunales_2016 1.1. Rn. 1.]
+und ergibt sich aus dem Vertrauensgedanken #footnote[@krafft_kommunales_2016 1.1. Rn. 1.], dass ein Gefahrenbereich nur dann für dritte zugänglich gemacht wird, wenn die notwenigen Maßnahmen zur Schadensvermeidung getroffen wurden. 
 Außerdem kann auch schon das teilnehmen und damit einhergehende einwirken auf einen bereits bestehenden Verkehr zu einer Verkehrspflicht führen. Das ergibt sich aus dem Gedanke des Vertrauensschutzes #footnote[@looschelders_schuldrecht_2022 §59 Rn. 6.] .
 
 == Vorraussetzungen für Verkehrspflichten
-Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen #footnote[Krafft Rn 55] . Außerdem muss die Möglichkeit bestehen, dass ein dritter dieser Gefahr auch tatsächlich ausgesetzt wird. Dies Entsteht im Normalfall durch die Verkehrseröffnung #footnote[Krafft Rn 66.] . Dabei ist zu beachten, dass die Verkehrspflichten im allgemeinen nur gegenüber Personen gelten, die befugt sind mit dem Verkehr in Kontakt zu geraten. Eine Ausnahme sind Kinder, welche auch dann geschützt werden müssen, wenn sie sich unbefugt nähern #footnote[@looschelders_schuldrecht_2022 § 59. Rn. 11.] .
+Als Vorraussetzung für das vorliegen einer Verkehrssicherungspflicht reicht eine abstrakte Gefahr nicht aus, sondern es muss eine "gefahrträchtige Situation" vorliegen #footnote[2.3.1.2. Rn. 55.] . Außerdem muss die Möglichkeit bestehen, dass ein dritter dieser Gefahr auch tatsächlich ausgesetzt wird. Dies Entsteht im Normalfall durch die Verkehrseröffnung #footnote[Krafft Rn 66.] . Dabei ist zu beachten, dass die Verkehrspflichten im allgemeinen nur gegenüber Personen gelten, die befugt sind mit dem Verkehr in Kontakt zu geraten. Eine Ausnahme sind Kinder, welche auch dann geschützt werden müssen, wenn sie sich unbefugt nähern #footnote[@looschelders_schuldrecht_2022 § 59. Rn. 11.] .
 Sollte das Vorliegen einer gefahrträchtigen Situation gegeben sein, ist nach wie vor zu klären in welchem Umfang die Verkehrssicherungspflichten bestehen. Hierzu gibt es keine konkreten Regelungen im Gesetz, weswegen sich auf die gängige Rechtssprechung berufen werden muss. Der BGH bewertet den Umfang dieser an der Erforderlichkeit von Maßnahmen, der (wirtschaftlichen) Zumutbarkeit für den Verpflichteten und den berechtigten Sicherheitserwartungen des Verkehrs, welche sich am Unfang der Verkehrseröffnung und somit daran für wen und wo der Verkehr eröffnet wird orientiert #footnote[Krafft Rn 55] .
 Die Erforderlichkeit zeichnet sich dadurch aus, dass eine Haftung dann entfällt, wenn der Benutzer die Gefahr erkennen und ihr ohne schwierigkeiten ausweichen kann #footnote[Krafft Rn 59] . 
 Um die Verkehrspflichten weiter zu konkretisieren, kann man grob zwischen drei Fallgruppen unterscheiden.
