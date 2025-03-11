@@ -64,7 +64,7 @@ Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Voraussetzung vo
 = Schadensersatzanspruch gem. §823 1 BGB
 Um zu verstehen, wann ein Schadensersatzanspruch aus einer verletzten Verkehrssicherungspflicht entsteht, ist es notwendig zu wissen, wie überhaupt ein Anspruch aus § 823 1 entsteht.
 Damit ein Schadensersatzanspruch gem. §823 Abs. 1 BGB besteht muss der Schädiger durch Handlung eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss sowohl eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung als auch eine Haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen
-#footnote[@looschelders_schuldrecht_2022, §59 Rn 1.] .
+#footnote[@looschelders_schuldrecht_2022, § 59 Rn 1.] .
 Die Prüfung eines Schadensersatzanspruches nach § 823 1 BGB beinhaltet den Haftungsbegründenden sowie den Haftungsausfüllenden Tatbestand #footnote[@looschelders_schuldrecht_2022, § 59 Rn 2.] .
 Bei dir Prüfung des Haftungsbegründenden Tatbestandes aus §823 1 sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden. Bei der Prüfung des Haftungsausfüllenden Tatbestandes wird (I) Schaden, (II) Kausalität und (III) Haftungsausschluss und Anspruchskürzungen geprüft #footnote[@looschelders_schuldrecht_2022, § 59 Rn 1.] .
 
@@ -168,15 +168,15 @@ Davon abzugrenzen sind die Luxustiere, welche eben diesen wirtschaftlichen Zweck
 
 == Grundlagen und Einordnung der Tierhaftung 
 In §833 BGB ist die Haftung des Tierhalters für durch das Tier verursachte Rechtsgutsverletzungen geregelt. Konkret genannt werden die tötung, die verletzung von Körper oder Gesundheut oder die Beschädigung einer Sache durch ein Tier, welche gemäß §833 S. 1 einen Schadensersatzanspruch gegen denjenigen Begründet, der das Tier hält.
-- halter ist nicht gleich eigentümer
-Damit aus der Rechtsgutsverletzung ein Schadensersatzanspruch gem. §833 BGB entsteht muss diese zum einen im Sinne der Äquivalenztheorie kausal und zum anderen die spezifische Tiergefahr verwirklicht sein. 
-Die spezifische Tiergefahr ergibt sich daraus, dass Tiere über Kräfte verfügen oder Verhaltensweisen zeigen, die für den Menschen unberechenbar sind. Für einen Anspruch aus §833 BGB muss die Rechtsgutsverletzung kausal aus einem durch die spezifische Tiergefahr eingeschlossene Handlung entstehen. 
+Dabei ist zu beachten, dass der Halter nicht unbedingt der Eigentümer ist #footnote[] .
+Damit aus der Rechtsgutsverletzung ein Schadensersatzanspruch gem. §833 BGB entsteht muss diese zum einen im Sinne der Äquivalenztheorie kausal und zum anderen die spezifische Tiergefahr verwirklicht sein #footnote[] .
+Die spezifische Tiergefahr ergibt sich daraus, dass Tiere über Kräfte verfügen oder Verhaltensweisen zeigen, die für den Menschen unberechenbar sind. Für einen Anspruch aus §833 BGB muss die Rechtsgutsverletzung kausal aus einem durch die spezifische Tiergefahr eingeschlossene Handlung entstehen #footnote[] .
 - Looschelders
-Je nach dem der Schaden durch ein Nutztier oder ein Luxustier verursacht wurde, ergeben sich unterschiedliche Haftungsmodelle. Bei den Nutztieren ergibt sich eine Verschuldenshaftung mit Beweislastumkehr gem. §833 S 1&2. und für die Luxustiere eine strenge Gefährdungshaftung gem. §833 S 1.
+Je nach dem der Schaden durch ein Nutztier oder ein Luxustier verursacht wurde, ergeben sich unterschiedliche Haftungsmodelle. Bei den Nutztieren ergibt sich eine Verschuldenshaftung mit Beweislastumkehr gem. §833 S 1&2. und für die Luxustiere eine strenge Gefährdungshaftung gem. §833 S 1 #footnote[] .
 
 == Luxustierhaftung
-Für Rechtsgutsverletzungen durch Luxustiere gilt die Gefährdungshaftung und somit die Haftung aus § 833 S. 1. Wenn eine nach der Äquivalenztheorie kausale Rechtsgutsverletzung durch ein Tier verursacht wird und dabei die spezifische Tiergefahr verwirklicht ist, so entsteht Schadensersatzanspruch gegenüber dem Tierhalter.
+Für Rechtsgutsverletzungen durch Luxustiere gilt die Gefährdungshaftung und somit die Haftung aus § 833 S. 1. Wenn eine nach der Äquivalenztheorie kausale Rechtsgutsverletzung durch ein Tier verursacht wird und dabei die spezifische Tiergefahr verwirklicht ist, so entsteht Schadensersatzanspruch gegenüber dem Tierhalter. Aufgrund der Gefährdungshaftung reicht es für einen Anspruch gegen den Tierhalter aus, wenn der Tatbestand und die Rechtswidrigkeit bejaht werden und ein Verschulden ist nicht notwendig #footnote[@sakowski_grundlagen_2020 4.4.6.3 ] .
 
 == Nutztierhaftung
 Für einen durch ein Nutztier verurachten Schaden gilt, zur vermeidung einer übermäßigen Belastung von gewerblichen Tierhalten lediglich eine Verschuldenshaftung #footnote[@looschelders_schuldrecht_2022,  § 68 Rn 1.] .
-Gem. § 833 S. 2 besteht dann eine Exkulpationsmöglichkeit (Entlastungsmöglichkeit) für den Halter, wenn er bei der Beaufsichtigung des Tieres die nötige Sorgfalt eingehalten hat oder der Schaden auch bei Einhaltung der Nötigen Sorgfalt entstanden wäre #footnote[@looschelders_schuldrecht_2022, § 68 Rn 10.] . Wann der Halter der nötigen Sorgfalt genügt, orientiert sich am Einzelfall #footnote[@looschelders_schuldrecht_2022, § 68 Rn 9.] .
+Gem. § 833 S. 2 besteht dann eine Exkulpationsmöglichkeit (Entlastungsmöglichkeit) für den Halter, wenn er bei der Beaufsichtigung des Tieres die nötige Sorgfalt eingehalten hat oder der Schaden auch bei Einhaltung der Nötigen Sorgfalt entstanden wäre #footnote[@looschelders_schuldrecht_2022, § 68 Rn 10.] . Wann der Halter der nötigen Sorgfalt genügt, orientiert sich am Einzelfall #footnote[@looschelders_schuldrecht_2022, § 68 Rn 9.] . In diesem Fall muss der Tierhalter einen Entlastungsbeweis führen, der zeigt, dass er die nötige Sorgfalt eingehalten hat #footnote[@sakowski_grundlagen_2020 4.4.6.3] .
