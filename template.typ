@@ -406,7 +406,7 @@
 
   set par(
     leading: 1.5em,
-    spacing: 1.5em
+    spacing: 1.2em
   )
 
   body

@@ -153,8 +153,8 @@ Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 // ab hier folgt der Teil mit den Tieren
-== Regelung für Tiere nach § 833 BGB 
-=== Begriffsklärungen 
+= Regelung für Tiere nach § 833 BGB 
+== Begriffsklärungen 
 #text(weight: "bold")[Tier]: Die Definition eines Tieres ist durch den allgemeinen Sprachgebrauch definiert. Die Literatur weißt allerdings darauf hin, dass die inklusion von Mikroorganismen wie Viren und Bakterien umstritten ist. Dafür spricht, dass Mikroorganismen lebendige Organismen sind und somit eine Nähe zum Wortsinn des Tieres bieten. Dagegen spricht allerdings, dass sie keine Lebewesen mit einem unberechenbaren Verhalten sind, welches eine wichtige Grundlage des §833 BGB ist #footnote[@looschelders_schuldrecht_2022 §69 Rn. 3.] .
 
 #text(weight: "bold")[Tierhalter]:
@@ -165,8 +165,7 @@ Unter den Begriff Haustier fallen zahme Tiere wie z.B. Hunde, Schweine usw. davo
 Unter einem Nutztier wird ein Hausier verstanden, welches einen wirtschaftlcihen Zweck des Halters erfüllt. In §833 BGB heißt es dazu, dass Tier müsse dem Beruf, der Erwerbstätigkeit oder dem Unterhalt des Tierhalters zu dienen bestimmt sein.
 Davon abzugrenzen sind die Luxustiere, welche eben diesen wirtschaftlichen Zweck nicht verwirklichen. Dabei ist wichtig, dass diese erwerbsmäßige Nutzung die hauptsächliche Zwckbestimmung des Tieres ist #footnote[@looschelders_schuldrecht_2022 §68 Rn. 8.] .
 
-
-=== Grundlagen und Einordnung der Tierhaftung 
+== Grundlagen und Einordnung der Tierhaftung 
 In §833 BGB ist die Haftung des Tierhalters für durch das Tier verursachte Rechtsgutsverletzungen geregelt. Konkret genannt werden die tötung, die verletzung von Körper oder Gesundheut oder die Beschädigung einer Sache durch ein Tier, welche gemäß §833 S. 1 einen Schadensersatzanspruch gegen denjenigen Begründet, der das Tier hält.
 - halter ist nicht gleich eigentümer
 Damit aus der Rechtsgutsverletzung ein Schadensersatzanspruch gem. §833 BGB entsteht muss diese zum einen im Sinne der Äquivalenztheorie kausal und zum anderen die spezifische Tiergefahr verwirklicht sein. 
@@ -174,9 +173,9 @@ Die spezifische Tiergefahr ergibt sich daraus, dass Tiere über Kräfte verfüge
 - Looschelders
 Je nach dem der Schaden durch ein Nutztier oder ein Luxustier verursacht wurde, ergeben sich unterschiedliche Haftungsmodelle. Bei den Nutztieren ergibt sich eine Verschuldenshaftung mit Beweislastumkehr gem. §833 S 1&2. und für die Luxustiere eine strenge Gefährdungshaftung gem. §833 S 1.
 
-=== Luxustierhaftung
+== Luxustierhaftung
 Für Rechtsgutsverletzungen durch Luxustiere gilt die Gefährdungshaftung und somit die Haftung aus § 833 S. 1. Wenn eine nach der Äquivalenztheorie kausale Rechtsgutsverletzung durch ein Tier verursacht wird und dabei die spezifische Tiergefahr verwirklicht ist, so entsteht Schadensersatzanspruch gegenüber dem Tierhalter.
 
-=== Nutztierhaftung
+== Nutztierhaftung
 Für einen durch ein Nutztier verurachten Schaden gilt, zur vermeidung einer übermäßigen Belastung von gewerblichen Tierhalten lediglich eine Verschuldenshaftung #footnote[@looschelders_schuldrecht_2022 §68 Rn. 1.] .
 Gem. § 833 S. 2 besteht dann eine Exkulpationsmöglichkeit (Entlastungsmöglichkeit) für den Halter, wenn er bei der Beaufsichtigung des Tieres die nötige Sorgfalt eingehalten hat oder der Schaden auch bei Einhaltung der Nötigen Sorgfalt entstanden wäre #footnote[@looschelders_schuldrecht_2022 §68 Rn. 10.] . Wann der Halter der nötigen Sorgfalt genügt, orientiert sich am Einzelfall #footnote[@looschelders_schuldrecht_2022 § 68 Rn. 9.] .
