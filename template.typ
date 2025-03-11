@@ -32,16 +32,20 @@
     "de": "Email",
     "en": "",
   ),
+  "student_address": (
+    "de": "Anschrift",
+    "en": "",
+  ),
   "supervisor_university": (
     "de": "Dozent",
     "en": "Reviewer of the Duale Hochschule",
   ),
   "part_of": (
-    "de": "Im Rahmen der Prüfung:",
+    "de": "Im Rahmen des Moduls:",
     "en": "As part of the examination:",
   ),
   "examination": (
-    "de": "Bachelor of Science (B. Sc.)",
+    "de": "Recht",
     "en": "Bachelor of Science (B. Sc.)",
   ),
   "course_of_study": (
@@ -104,10 +108,8 @@
   }
 }
 
-
-
 #let project(
-  lang: "en",
+  lang: "de",
   is_digital: true,
   confidential_clause: true,
   title_long: none,
@@ -122,6 +124,7 @@
   processing_period: none,
   supervisor_company: none,
   student_mail: none,
+  student_address: none,
   supervisor_university: none,
   abstract: [],
   appendices: none,
