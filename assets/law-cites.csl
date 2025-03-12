@@ -330,6 +330,7 @@
       </group>
       <text macro="year-date" prefix=", "/>
       <text macro="access" prefix=", "/>
+      <text variable="note" prefix=", "/>
     </layout>
   </bibliography>
 </style>
