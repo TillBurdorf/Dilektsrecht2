@@ -65,8 +65,8 @@ Aus den in § 823 1 BGB geregelten Grundsätzen zu Schadenersatzansprüchen werd
 Die folgende Ausarbeitung bietet eine abstrakte Darstellung der Voraussetzungen von Verkehrssicherungspflichten und wann man ihnen genügt bzw. wann aus ihnen ein Schadensersatzanspruch aus § 823 1 BGB entsteht. Zusätzlich wird die besondere Haftung von Tieren samt Exkulpationsmöglichkeiten dargestellt.
 
 = Schadensersatzanspruch gem. § 823 1 BGB
-Um zu verstehen, wann ein Schadensersatzanspruch aufgrund einer verletzten Verkehrssicherungspflicht entsteht, ist es erforderlich, die Voraussetzungen eines Anspruchs nach § 823 Abs. 1 BGB zu kennen.
-Damit ein Schadensersatzanspruch gem. § 823 Abs. 1 BGB besteht muss der Schädiger eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss sowohl eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung als auch eine Haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen.
+Um zu verstehen, wann ein Schadensersatzanspruch aufgrund einer verletzten Verkehrssicherungspflicht entsteht, ist es erforderlich, die Voraussetzungen eines Anspruchs nach § 823 1 BGB zu kennen.
+Damit ein Schadensersatzanspruch gem. § 823 1 BGB besteht muss der Schädiger eine rechtswidrige Rechtsgutsverletzung verschuldet haben. Außerdem muss sowohl eine Haftungsbegründende Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung als auch eine Haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen.
 #footnote[@looschelders_schuldrecht_2022, § 59 Rn 1.]
 
 Die Prüfung eines Schadensersatzanspruches nach § 823 1 BGB beinhaltet den Haftungsbegründenden sowie den Haftungsausfüllenden Tatbestand. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 2.] 
