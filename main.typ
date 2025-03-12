@@ -44,7 +44,7 @@
 
   // Path/s to references - either .yaml or .bib files
   // * for `.yaml` files see: [hayagriva](https://github.com/typst/hayagriva)
-  library_paths: "deinemom.bib",
+  library_paths: "bibliography.bib",
 
   // Specify acronyms here.
   // The key is used to reference the acronym.

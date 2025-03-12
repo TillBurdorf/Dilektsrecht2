@@ -283,6 +283,12 @@
 
 /*       [*#__tpl_message("supervisor_company", lang)*], [#supervisor_company], */
       [*#__tpl_message("student_mail", lang)*], [#student_mail],
+      [*#__tpl_message("student_address", lang)*],
+      [
+        Till Burdorf \
+        Darwinstraße 6 \
+        69115 Heidelberg, Deutschland
+      ],
       [*#__tpl_message("supervisor_university", lang)*], [#supervisor_university],
     )
   ]
