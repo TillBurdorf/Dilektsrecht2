@@ -436,6 +436,8 @@
   // display bibliography
   set page(numbering: page_numbering, footer: auto)
 
+  set par(spacing: 2em)
+
   bibliography(
     library_paths,
     title: [#__tpl_message("list_bibliography", lang)],
