@@ -70,7 +70,7 @@ Damit ein Schadensersatzanspruch gem. § 823 Abs. 1 BGB besteht muss der Schädi
 Die Prüfung eines Schadensersatzanspruches nach § 823 1 BGB beinhaltet den Haftungsbegründenden sowie den Haftungsausfüllenden Tatbestand. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 2.] 
 Bei dir Prüfung des Haftungsbegründenden Tatbestandes sollte die Reihenfolge: (I) Prüfung des objektiven Tatbestandes, (II) Rechtswidrigkeit und (III) Verschulden beachtet werden. Bei der Prüfung des Haftungsausfüllenden Tatbestandes wird (I) Schaden, (II) Kausalität und (III) Haftungsausschluss und Anspruchskürzungen geprüft. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 1.] 
 
-#text(weight: "bold")[(I)]
+== Der objektive Tatbestand
 Die Prüfung des objektiven Tatbestandes lässt sich weiter in drei Unterpunkte einteilen. Zuerst muss eine Rechtsgutsverletzung vorliegen, also die Verletzung von Leben, Körper, Gesundheit, Freiheit, Eigentum oder eines sonstigen absoluten Rechts (vgl. §823 1 BGB).
 Zusätzlich muss diese Rechtsgutsverletzung durch eine Verletzungshandlung entstanden sein, also entweder unmittelbar durch aktives menschliches Tun, oder mittelbar durch Unterlassen.  An dieser Stelle werden die Verkehrssicherungspflichten relevant, da aus einem Unterlassen nur dann eine Verletzungshandlung entsteht, wenn auch eine Rechtspflicht zum Handeln bestanden hat. Diese Rechtspflicht zum Handeln besteht z.B. bei einer Garantenstellung des Schädigers oder bei einer Verkehrssicherungspflicht. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 3.] 
 Sollten sowohl eine Verletzungshandlung als auch eine Rechtsgutsverletzung vorliegen, so ist zusätzlich sicherzustellen, dass eine Haftungsbegründende Kausalität besteht, also eine Kausalität zwischen der Verletzungshandlung und der Rechtsgutsverletzung. Davon abzugrenzen ist an dieser Stelle die Kausalität zwischen der Rechtsgutsverletzung und dem Schaden, welche erst im Rahmen des Haftungsausfüllenden Tatbestandes zu prüfen ist.
@@ -79,25 +79,26 @@ Im ersten Schritt findet die Äquivalenztheorie Anwendung, welche besagt, dass e
 Im zweiten Schritt der Kausalitätsprüfung kommt die Adäquanztheorie zum Zuge. Diese konkretisiert die Äquivalenztheorie, indem die Kausalität nur dann bejaht wird, wenn eine Handlung nach der allgemeinen Lebenserfahrung, unter normalen, nicht unwahrscheinlichen oder besonders eigenartigen Umständen den Erfolg verursachen kann. #footnote[@sakowski_grundlagen_2020, 4.4.2.2.] 
 Zuletzt muss beachtet werden, dass der Schädiger nur für solche Schäden haftet, die auch dem Schutzzweck der Norm entsprechen. Das bedeutet, dass konkret geprüft werden muss, ob die verletzte Norm auch tatsächlich zum Schutz der stattgefundenen Rechtsgutsverletzung gedacht ist. #footnote[@looschelders_schuldrecht_2022-1, § 45 Rn 19.] 
 
-#text(weight: "bold")[(II)]
+== Rechtswidrigkeit 
 Wenn der objektive Tatbestand erfüllt ist, muss im Anschluss die Rechtswidrigkeit geprüft werden. Wie auch schon bei der Verletzungshandlung wird bei der Rechtswidrigkeit zwischen der unmittelbaren Schädigung durch aktives menschliches Tun und der mittelbaren Schädigung durch Unterlassen unterschieden. #footnote[@sakowski_grundlagen_2020, 4.4.2.1.] 
 Bei einer unmittelbaren Schädigung wird die Rechtswidrigkeit im Normalfall durch die Erfüllung des objektiven Tatbestandes indiziert.
 Im Gegensatz dazu wird die Rechtswidrigkeit bei mittelbaren Schädigungen nicht indiziert und bedarf zusätzlich dem Verstoß gegen eine Verkehrssicherungspflicht. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 3.]  An dieser Stelle ergibt sich das Problem, dass in der Literatur keine Einigkeit darüber besteht an welcher Stelle der Verstoß gegen Verkehrspflichten zu prüfen ist. Sollte der Verstoß bereits im Rahmen des objektiven Tatbestandes geprüft worden sein, wird die Rechtswidrigkeit analog zu unmittelbaren Verletzungen indiziert, ist das nicht erfolgt, ist die Prüfung im Rahmen der Rechtswidrigkeit durchzuführen. #footnote[@kotz_deliktsrecht_2017, E Teil 2b Rn 109.] 
 Außerdem sind gängige Rechtfertigungsgründe wie z.B. Notwehr, Notstand, Selbsthilfe, Einwilligung und Meinungs bzw Pressefreieheit zu berücksichtigen. #footnote[@sakowski_grundlagen_2020, 4.4.3.] 
 
-#text(weight: "bold")[(III)] 
+== Verschulden
 Im dritten Schritt muss die Schuld festgestellt werden, indem zuerst einmal sichergestellt wird, dass der Schädiger schuldfähig ist. Als ein Beispiel unter vielen für eine nicht gegebene Schuldfähigkeit ist ein verursachter Schaden durch ein Kind unter 7 Jahren zu nennen. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 22.]  Hinsichtlich der Verschuldensfähigkeit sollten § 827, § 828 & § 829 BGB geprüft werden. Wird die Schuldfähigkeit bejaht, ergibt sich die Schuld aus dem Vorsatz oder der Fahrlässigkeit gem. § 276 BGB. Dabei muss der Schädiger nicht den gesamten Kausalverlauf im Vorhinein gekannt haben, sondern es ist ausreichend, dass es für den Schädiger absehbar war, dass eine Rechtsgutsverletzung hervorgeht. #footnote[@looschelders_schuldrecht_2022, § 60 Rn 34.] 
 
 
 Im Anschluss wird im Haftungsausfüllenden Tatbestand der Umfang den zu ersetzten Schaden ermittelt. Die Prüfung erfolgt hier ebenfalls in drei Schritten.
 
-#text(weight: "bold")[(I)] Schaden: Der Geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl materiell als auch immateriell sein. #footnote[@looschelders_schuldrecht_2022, § 60 Rn 36.] 
+== Schaden
+Der Geschädigte muss tatsächlich einen Schaden erlitten haben. Dieser kann sowohl materiell als auch immateriell sein. #footnote[@looschelders_schuldrecht_2022, § 60 Rn 36.] 
 
-#text(weight: "bold")[(II)]
-Kausalität: Wie oben bereits erwähnt, muss zusätzlich zur Haftungsbegründenden Kausalität zwischen Handlung und Rechtsgutsverletzung auch eine Haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen. #footnote[@looschelders_schuldrecht_2022, § 60 Rn 36.]  Diese wird analog mittels Äquivalenztheorie, Adäquanztheorie und der Lehre des Schutzzwecks der Norm geprüft.
+== Kausalität
+Wie oben bereits erwähnt, muss zusätzlich zur Haftungsbegründenden Kausalität zwischen Handlung und Rechtsgutsverletzung auch eine Haftungsausfüllende Kausalität zwischen Rechtsgutsverletzung und Schaden bestehen. #footnote[@looschelders_schuldrecht_2022, § 60 Rn 36.]  Diese wird analog mittels Äquivalenztheorie, Adäquanztheorie und der Lehre des Schutzzwecks der Norm geprüft.
 
-#text(weight: "bold")[(III)]
-Haftungsausschluss und Anspruchskürzungen: In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglichkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine Verjährung ist denkbar. #footnote[@looschelders_schuldrecht_2022, § 60 Rn 37/38.] 
+== Haftungsausschluss und Anspruchskürzungen
+In Einzelfällen kann es zu vertraglichen oder gesetzlichen Haftungsausschlüssen kommen. Zusätzlich besteht die Möglichkeit, dass eine Mitschuld auf den geschädigten Entfällt, was zu einer Anspruchskürzung führt. Auch eine Verjährung ist denkbar. #footnote[@looschelders_schuldrecht_2022, § 60 Rn 37/38.] 
 
 = Die Verkehrssicherungspflichten
 Der folgende Abschnitt behandelt die bereits erwähnten Verkehrssicherungspflichten insbesondere im Hinblick darauf, wie sie entstehen, wann man ihnen genügt bzw wann daraus ein Schadensersatzanspruch aus § 823 1 BGB entsteht.
@@ -139,14 +140,17 @@ Sollten jegliche Maßnahmen zur Sicherung nicht in den Bereich der Zumutbarkeit 
 //hier stehen geblieben bei den footnotes mit leeren brackets 
 == Schwierigkeiten und Besonderheiten 
 Trotz des einfachen und nachvollziehbaren Grundsatzes ergeben sich im Hinblick auf die Verkehrssicherungspflichten einige rechtliche Schwierigkeiten und Besonderheiten die einen besonderen Blick erfordern.
-Bereits der Begriff Verkehrssicherungspflichten kann missverständlich sein, da es keineswegs nur um Sicherungspflichten im Straßenverkehr geht, sondern vielmehr um allgemeine Sorgfaltspflichten und Verhaltensgebote. #footnote[@kotz_deliktsrecht_2017, E Teil 1.4 Rn 127.]   
-Des Weiteren ist fraglich im Rahmen welches Schrittes, der oben erläuterten Prüfung des § 823 1 BGB, die Verkehrspflichten zu verorten sind. Teile der Literatur argumentieren hier für eine Prüfung im Rahmen des Tatbestandes, andere für eine Prüfung im Rahmen der Rechtswidrigkeit.
+=== Der Begriff Verkehrssicherungspflicht
+Bereits der Begriff Verkehrssicherungspflicht kann missverständlich sein, da es keineswegs nur um Sicherungspflichten im Straßenverkehr geht, sondern vielmehr um allgemeine Sorgfaltspflichten und Verhaltensgebote. #footnote[@kotz_deliktsrecht_2017, E Teil 1.4 Rn 127.] Auch die Einordnung in der Prüfung des § 823 1 BGB und das Verhältnis zwischen Verkehrssicherungspflichten und Fahrlässigkeit sind strittig.
+=== Einordnung der Verkehrssicherungspflichten in § 823 1 BGB   
+Es ist fraglich im Rahmen welches Schrittes, der oben erläuterten Prüfung des § 823 1 BGB, die Verkehrspflichten zu verorten sind. Teile der Literatur argumentieren hier für eine Prüfung im Rahmen des Tatbestandes, andere für eine Prüfung im Rahmen der Rechtswidrigkeit.
 Wie oben dargestellt, folgt die Rechtswidrigkeit im Normalfall direkt aus der Rechtsgutsverletzung. 
 Es gibt allerdings zwei Fallgruppen, in denen diese Implikation nicht direkt gezogen werden kann. 
 Dabei handelt es sich um die mittelbaren Verletzungen und die Unterlassungen. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 3.]
 Bei diesen Fallgruppen muss geprüft werden, ob der Schädiger zusätzlich zur Rechtsgutsverletzung eine Verkehrssicherungspflicht missachtet hat. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 3.]
 Man Unterscheidet zwischen dem Erfolgsunrecht bei unmittelbaren Verletzungen und dem Verhaltensunrecht bei mittelbaren Verletzungen und Unterlassungen. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 3.] Dabei besagt das Erfolgsunrecht, dass die Rechtswidrigkeit einer Handlung aus dem tatsächlichen Erfolg resultiert, wie z.B. beim Totschlag der Tod eines Menschen. Im Gegensatz dazu wird die Rechtswidrigkeit beim Verhaltensunrecht schon allein durch das Verhalten indiziert, ohne dass dafür ein Schaden eintreten muss. #footnote[@Rüssmann.] Die Prüfung der Verkehrspflichten auf der Tatbestandsebene ermöglicht es in der Prüfung des § 823 I weiterhin eine Indizierung der Rechtswidrigkeit aus dem erfüllten Tatbestand ableiten zu können, wohingegen sich das Prüfungsschema bei einer Prüfung innerhalb der Rechtswidrigkeit ändert. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 5.] 
-Außerdem bestehen unterschiedliche Auffassungen darüber, in welchem Zusammenhang sie zur allgemeinen Fahrlässigkeit aus § 276 II stehen. #footnote[@kotz_deliktsrecht_2017, E Teil 1.4 Rn 124.] Hier stellt sich die Frage, ob eine Verkehrspflichtverletzung dasselbe wie die Fahrlässigkeit darstellt, oder ob diese beiden zu Unterscheiden sind. 
+=== Abgrenzung zur Fahrlässigkeit
+Es bestehen unterschiedliche Auffassungen darüber, in welchem Zusammenhang Verkehrssicherungspflichten zur allgemeinen Fahrlässigkeit aus § 276 II stehen. #footnote[@kotz_deliktsrecht_2017, E Teil 1.4 Rn 124.] Hier stellt sich die Frage, ob eine Verkehrspflichtverletzung dasselbe wie die Fahrlässigkeit darstellt, oder ob diese beiden zu Unterscheiden sind. 
 Teile der Literatur sind der Auffassung, dass für die Haftung aus § 823 I BGB sowohl die Fahrlässigkeit als auch die Verkehrspflichtverletzung erfüllt sein müssen, wobei erstere die innere und zweitere die äußere Sorgfalt abbildet. Die äußere Sorgfalt beschreibt hierbei die Sorgfalt im Höchstmaß, wobei sich die innere auf den moderaten Standard der Sorgfalt im Verkehr beschränkt.
 Es wird argumentiert, dass eine Verkehrspflichtverletzung nach strengeren Maßstäben zu bewerten ist als die einfache Fahrlässigkeit. #footnote[@looschelders_schuldrecht_2022, § 59 Rn 12/13.] 
 In anderen Teilen der Literatur wird dieser Ansatz verworfen und die Verkehrspflichtverletzung als anderer Name für die Fahrlässigkeit aus § 276 II BGB definiert. #footnote[@kotz_deliktsrecht_2017, E Teil 1.4 Rn 129.]
