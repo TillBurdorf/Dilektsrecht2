@@ -31,6 +31,8 @@
   //supervisor_company: "Christian Klein",
   student_mail: "s241317@student.dhbw-mannheim.de",
   student_address: "Darwinstraße 6, 69115 Heidelberg",
+  semester: "2",
+  faculty: "Wirtschaft",
   supervisor_university: "Alexander Meyer",
 
   // Disable the abstract by changing to `abstract: ()`

@@ -36,6 +36,10 @@
     "de": "Anschrift",
     "en": "",
   ),
+  "semester": (
+    "de": "Fachsemester",
+    "en": "",
+  ),
   "supervisor_university": (
     "de": "Dozent",
     "en": "Reviewer of the Duale Hochschule",
@@ -88,6 +92,10 @@
     "de": "Anhang",
     "en": "Appendix",
   ),
+  "faculty": (
+    "de": "Fakultät",
+    "en": "Faculty",
+  ),
   "list_appendix": (
     "de": "Anhangsverzeichnis",
     "en": "Index of Appendices",
@@ -125,9 +133,11 @@
   supervisor_company: none,
   student_mail: none,
   student_address: none,
+  semester: none,
   supervisor_university: none,
   abstract: [],
   appendices: none,
+  faculty: none,
   library_paths: (),
   acronyms: (),
   body,
@@ -269,6 +279,8 @@
       columns: (1fr, 1fr),
       align: (right, left),
       stroke: none,
+      [*#__tpl_message("semester", lang)*], [#semester],
+      [*#__tpl_message("faculty", lang)*], [#faculty],
       [*#__tpl_message("submission_date", lang)*], [#submission_date],
       [*#__tpl_message("processing_period", lang)*], [#processing_period],
       [*#__tpl_message("matriculation_number", lang), #__tpl_message("course", lang)*],
